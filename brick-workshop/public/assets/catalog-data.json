@@ -1,0 +1,6452 @@
+{
+  "schemaVersion": 1,
+  "glb": "/assets/parts.glb",
+  "unit": "1 stud",
+  "axis": "Y-up",
+  "preliminary": false,
+  "parts": [
+    {
+      "id": "3005",
+      "ldrawId": "3005",
+      "templateId": "ld_3005",
+      "name": "1×1 砖",
+      "category": "bricks",
+      "description": "Brick  1 x  1",
+      "width": 1.0,
+      "depth": 1.0,
+      "height": 1.2,
+      "meshHeight": 1.4,
+      "bbox": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          1.4,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          1.4,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          1.2,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.5,
+          -0.5,
+          -1.2
+        ],
+        [
+          0.5,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -1.2
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        1.2,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3005",
+      "glb": "/assets/parts.glb",
+      "shape": "brick",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 172,
+      "source": "https://library.ldraw.org/library/official/parts/3005.dat",
+      "sourceFiles": [
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/box4t.dat",
+        "p/box5.dat",
+        "p/stud.dat",
+        "parts/3005.dat",
+        "parts/s/3005s01.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Tore Eriksson [Tore_Eriksson]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 97,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 177
+    },
+    {
+      "id": "3004",
+      "ldrawId": "3004",
+      "templateId": "ld_3004",
+      "name": "1×2 砖",
+      "category": "bricks",
+      "description": "Brick  1 x  2",
+      "width": 2.0,
+      "depth": 1.0,
+      "height": 1.2,
+      "meshHeight": 1.4,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        [
+          1.0,
+          1.4,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          1.0,
+          1.4,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        [
+          1.0,
+          1.2,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -0.5,
+          -1.2
+        ],
+        [
+          1.0,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -1.2
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        1.2,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3004",
+      "glb": "/assets/parts.glb",
+      "shape": "brick",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 332,
+      "source": "https://library.ldraw.org/library/official/parts/3004.dat",
+      "sourceFiles": [
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/box4t.dat",
+        "p/box5.dat",
+        "p/stud.dat",
+        "p/stud3.dat",
+        "parts/3004.dat",
+        "parts/s/3004s01.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Tore Eriksson [Tore_Eriksson]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 195,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 339
+    },
+    {
+      "id": "3001",
+      "ldrawId": "3001",
+      "templateId": "ld_3001",
+      "name": "2×4 砖",
+      "category": "bricks",
+      "description": "Brick  2 x  4",
+      "width": 4.0,
+      "depth": 2.0,
+      "height": 1.2,
+      "meshHeight": 1.4,
+      "bbox": [
+        [
+          -2.0,
+          0.0,
+          -1.0
+        ],
+        [
+          2.0,
+          1.4,
+          1.0
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -2.0,
+          0.0,
+          -1.0
+        ],
+        "max": [
+          2.0,
+          1.4,
+          1.0
+        ]
+      },
+      "bodyBounds": [
+        [
+          -2.0,
+          0.0,
+          -1.0
+        ],
+        [
+          2.0,
+          1.2,
+          1.0
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -2.0,
+          -1.0,
+          -1.2
+        ],
+        [
+          2.0,
+          1.0,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -1.2
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        1.2,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3001",
+      "glb": "/assets/parts.glb",
+      "shape": "brick",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 1212,
+      "source": "https://library.ldraw.org/library/official/parts/3001.dat",
+      "sourceFiles": [
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring3.dat",
+        "p/box3u2p.dat",
+        "p/box5.dat",
+        "p/stud.dat",
+        "p/stud4.dat",
+        "parts/3001.dat",
+        "parts/s/3001s01.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Niels Karsdorp [nielsk]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 728,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 1224
+    },
+    {
+      "id": "3024",
+      "ldrawId": "3024",
+      "templateId": "ld_3024",
+      "name": "1×1 板",
+      "category": "plates",
+      "description": "Plate  1 x  1",
+      "width": 1.0,
+      "depth": 1.0,
+      "height": 0.4,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          0.6000000000000001,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.6000000000000001,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          0.4,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.5,
+          -0.5,
+          -0.4
+        ],
+        [
+          0.5,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3024",
+      "glb": "/assets/parts.glb",
+      "shape": "plate",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 172,
+      "source": "https://library.ldraw.org/library/official/parts/3024.dat",
+      "sourceFiles": [
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/box4t.dat",
+        "p/box5.dat",
+        "p/stud.dat",
+        "parts/3024.dat",
+        "parts/s/3024s01.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Tore Eriksson [Tore_Eriksson]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 97,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 177
+    },
+    {
+      "id": "3023",
+      "ldrawId": "3023",
+      "templateId": "ld_3023",
+      "name": "1×2 板",
+      "category": "plates",
+      "description": "~Moved to 3023b",
+      "width": 2.0,
+      "depth": 1.0,
+      "height": 0.4,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        [
+          1.0,
+          0.6000000000000001,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          1.0,
+          0.6000000000000001,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        [
+          1.0,
+          0.4,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -0.5,
+          -0.4
+        ],
+        [
+          1.0,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3023",
+      "glb": "/assets/parts.glb",
+      "shape": "plate",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 332,
+      "source": "https://library.ldraw.org/library/official/parts/3023.dat",
+      "sourceFiles": [
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/box4t.dat",
+        "p/box5.dat",
+        "p/stud.dat",
+        "p/stud3.dat",
+        "p/stug-1x2.dat",
+        "parts/3023.dat",
+        "parts/3023b.dat",
+        "parts/s/3023bs01.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Massimo Maso [Sirio]",
+        "Orion Pobursky [OrionP]",
+        "Steffen [Steffen]",
+        "Tore Eriksson [Tore_Eriksson]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 195,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 339
+    },
+    {
+      "id": "3022",
+      "ldrawId": "3022",
+      "templateId": "ld_3022",
+      "name": "2×2 板",
+      "category": "plates",
+      "description": "Plate  2 x  2",
+      "width": 2.0,
+      "depth": 2.0,
+      "height": 0.4,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -1.0
+        ],
+        [
+          1.0,
+          0.6000000000000001,
+          1.0
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -1.0
+        ],
+        "max": [
+          1.0,
+          0.6000000000000001,
+          1.0
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -1.0
+        ],
+        [
+          1.0,
+          0.4,
+          1.0
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -1.0,
+          -0.4
+        ],
+        [
+          1.0,
+          1.0,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3022",
+      "glb": "/assets/parts.glb",
+      "shape": "plate",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 572,
+      "source": "https://library.ldraw.org/library/official/parts/3022.dat",
+      "sourceFiles": [
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring3.dat",
+        "p/box5.dat",
+        "p/stud.dat",
+        "p/stud4.dat",
+        "parts/3022.dat"
+      ],
+      "authors": [
+        "James Jessiman"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 340,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 580
+    },
+    {
+      "id": "3020",
+      "ldrawId": "3020",
+      "templateId": "ld_3020",
+      "name": "2×4 板",
+      "category": "plates",
+      "description": "Plate  2 x  4",
+      "width": 4.0,
+      "depth": 2.0,
+      "height": 0.4,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -2.0,
+          0.0,
+          -1.0
+        ],
+        [
+          2.0,
+          0.6000000000000001,
+          1.0
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -2.0,
+          0.0,
+          -1.0
+        ],
+        "max": [
+          2.0,
+          0.6000000000000001,
+          1.0
+        ]
+      },
+      "bodyBounds": [
+        [
+          -2.0,
+          0.0,
+          -1.0
+        ],
+        [
+          2.0,
+          0.4,
+          1.0
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -2.0,
+          -1.0,
+          -0.4
+        ],
+        [
+          2.0,
+          1.0,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3020",
+      "glb": "/assets/parts.glb",
+      "shape": "plate",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 1212,
+      "source": "https://library.ldraw.org/library/official/parts/3020.dat",
+      "sourceFiles": [
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring3.dat",
+        "p/box5.dat",
+        "p/stud.dat",
+        "p/stud4.dat",
+        "parts/3020.dat"
+      ],
+      "authors": [
+        "James Jessiman"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 728,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 1224
+    },
+    {
+      "id": "3710",
+      "ldrawId": "3710",
+      "templateId": "ld_3710",
+      "name": "1×4 板",
+      "category": "plates",
+      "description": "Plate  1 x  4",
+      "width": 4.0,
+      "depth": 1.0,
+      "height": 0.4,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -2.0,
+          0.0,
+          -0.5
+        ],
+        [
+          2.0,
+          0.6000000000000001,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -2.0,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          2.0,
+          0.6000000000000001,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -2.0,
+          0.0,
+          -0.5
+        ],
+        [
+          2.0,
+          0.4,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -2.0,
+          -0.5,
+          -0.4
+        ],
+        [
+          2.0,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3710",
+      "glb": "/assets/parts.glb",
+      "shape": "plate",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 652,
+      "source": "https://library.ldraw.org/library/official/parts/3710.dat",
+      "sourceFiles": [
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/box4t.dat",
+        "p/box5.dat",
+        "p/stud.dat",
+        "p/stud3.dat",
+        "p/stug-1x4.dat",
+        "p/stug3-1x3.dat",
+        "parts/3710.dat",
+        "parts/s/3710s01.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Massimo Maso [Sirio]",
+        "Steffen [Steffen]",
+        "Tore Eriksson [Tore_Eriksson]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 391,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 663
+    },
+    {
+      "id": "3034",
+      "ldrawId": "3034",
+      "templateId": "ld_3034",
+      "name": "2×8 板",
+      "category": "plates",
+      "description": "Plate  2 x  8",
+      "width": 8.0,
+      "depth": 2.0,
+      "height": 0.4,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -4.0,
+          0.0,
+          -1.0
+        ],
+        [
+          4.0,
+          0.6000000000000001,
+          1.0
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -4.0,
+          0.0,
+          -1.0
+        ],
+        "max": [
+          4.0,
+          0.6000000000000001,
+          1.0
+        ]
+      },
+      "bodyBounds": [
+        [
+          -4.0,
+          0.0,
+          -1.0
+        ],
+        [
+          4.0,
+          0.4,
+          1.0
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -4.0,
+          -1.0,
+          -0.4
+        ],
+        [
+          4.0,
+          1.0,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3034",
+      "glb": "/assets/parts.glb",
+      "shape": "plate",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 2492,
+      "source": "https://library.ldraw.org/library/official/parts/3034.dat",
+      "sourceFiles": [
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring3.dat",
+        "p/box5.dat",
+        "p/stud.dat",
+        "p/stud4.dat",
+        "parts/3034.dat"
+      ],
+      "authors": [
+        "James Jessiman"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 1504,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 2512
+    },
+    {
+      "id": "3036",
+      "ldrawId": "3036",
+      "templateId": "ld_3036",
+      "name": "6×8 板",
+      "category": "plates",
+      "description": "Plate  6 x  8",
+      "width": 8.0,
+      "depth": 6.0,
+      "height": 0.4,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -4.0,
+          0.0,
+          -3.0
+        ],
+        [
+          4.0,
+          0.6000000000000001,
+          3.0
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -4.0,
+          0.0,
+          -3.0
+        ],
+        "max": [
+          4.0,
+          0.6000000000000001,
+          3.0
+        ]
+      },
+      "bodyBounds": [
+        [
+          -4.0,
+          0.0,
+          -3.0
+        ],
+        [
+          4.0,
+          0.4,
+          3.0
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -4.0,
+          -3.0,
+          -0.4
+        ],
+        [
+          4.0,
+          3.0,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3036",
+      "glb": "/assets/parts.glb",
+      "shape": "plate",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 9532,
+      "source": "https://library.ldraw.org/library/official/parts/3036.dat",
+      "sourceFiles": [
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring3.dat",
+        "p/box5.dat",
+        "p/stud.dat",
+        "p/stud4.dat",
+        "parts/3036.dat"
+      ],
+      "authors": [
+        "James Jessiman"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 5760,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 9584
+    },
+    {
+      "id": "3070b",
+      "ldrawId": "3070b",
+      "templateId": "ld_3070b",
+      "name": "1×1 光面",
+      "category": "tiles",
+      "description": "Tile  1 x  1 with Groove",
+      "width": 1.0,
+      "depth": 1.0,
+      "height": 0.4,
+      "meshHeight": 0.4,
+      "bbox": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          0.4,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.4,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          0.4,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.5,
+          -0.5,
+          -0.4
+        ],
+        [
+          0.5,
+          0.5,
+          -0.0
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3070b",
+      "glb": "/assets/parts.glb",
+      "shape": "tile",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 140,
+      "source": "https://library.ldraw.org/library/official/parts/3070b.dat",
+      "sourceFiles": [
+        "p/box4.dat",
+        "p/box5.dat",
+        "parts/3070b.dat",
+        "parts/s/3070bs01.dat"
+      ],
+      "authors": [
+        "Chris Dee [cwdee]",
+        "James Jessiman"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 72,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 144
+    },
+    {
+      "id": "3069b",
+      "ldrawId": "3069b",
+      "templateId": "ld_3069b",
+      "name": "1×2 光面",
+      "category": "tiles",
+      "description": "Tile  1 x  2 with Groove",
+      "width": 2.0,
+      "depth": 1.0,
+      "height": 0.4,
+      "meshHeight": 0.4,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        [
+          1.0,
+          0.4,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          1.0,
+          0.4,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        [
+          1.0,
+          0.4,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -0.5,
+          -0.4
+        ],
+        [
+          1.0,
+          0.5,
+          -0.0
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3069b",
+      "glb": "/assets/parts.glb",
+      "shape": "tile",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 140,
+      "source": "https://library.ldraw.org/library/official/parts/3069b.dat",
+      "sourceFiles": [
+        "p/box4.dat",
+        "p/box5.dat",
+        "parts/3069b.dat",
+        "parts/s/3069bs01.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Santeri Piippo [arezey]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 72,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 144
+    },
+    {
+      "id": "2431",
+      "ldrawId": "2431",
+      "templateId": "ld_2431",
+      "name": "1×4 光面",
+      "category": "tiles",
+      "description": "Tile  1 x  4 with Groove",
+      "width": 4.0,
+      "depth": 1.0,
+      "height": 0.4,
+      "meshHeight": 0.4,
+      "bbox": [
+        [
+          -2.0,
+          0.0,
+          -0.5
+        ],
+        [
+          2.0,
+          0.4,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -2.0,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          2.0,
+          0.4,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -2.0,
+          0.0,
+          -0.5
+        ],
+        [
+          2.0,
+          0.4,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -2.0,
+          -0.5,
+          -0.4
+        ],
+        [
+          2.0,
+          0.5,
+          -0.0
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_2431",
+      "glb": "/assets/parts.glb",
+      "shape": "tile",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 380,
+      "source": "https://library.ldraw.org/library/official/parts/2431.dat",
+      "sourceFiles": [
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/box4.dat",
+        "p/box5.dat",
+        "p/stud3.dat",
+        "parts/2431.dat",
+        "parts/s/2431s01.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Santeri Piippo [arezey]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 219,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 387
+    },
+    {
+      "id": "2412b",
+      "ldrawId": "2412b",
+      "templateId": "ld_2412b",
+      "name": "格栅板",
+      "category": "tiles",
+      "description": "Tile  1 x  2 Grille with Groove",
+      "width": 2.0,
+      "depth": 1.0,
+      "height": 0.4,
+      "meshHeight": 0.4,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        [
+          1.0,
+          0.4,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          1.0,
+          0.4,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        [
+          1.0,
+          0.4,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -0.5,
+          -0.4
+        ],
+        [
+          1.0,
+          0.5,
+          -0.0
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_2412b",
+      "glb": "/assets/parts.glb",
+      "shape": "tile",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 310,
+      "source": "https://library.ldraw.org/library/official/parts/2412b.dat",
+      "sourceFiles": [
+        "p/2-4cyli.dat",
+        "p/2-4disc.dat",
+        "p/2-4edge.dat",
+        "p/box4.dat",
+        "p/rect.dat",
+        "parts/2412b.dat"
+      ],
+      "authors": [
+        "Guy Vivan [guyvivan]",
+        "James Jessiman"
+      ],
+      "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt; Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 188,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 352
+    },
+    {
+      "id": "3040b",
+      "ldrawId": "3040b",
+      "templateId": "ld_3040b",
+      "name": "1×2 斜砖",
+      "category": "slopes",
+      "description": "Slope Brick 45  2 x  1",
+      "width": 1.0,
+      "depth": 2.0,
+      "height": 1.2,
+      "meshHeight": 1.4,
+      "bbox": [
+        [
+          -0.5,
+          0.0,
+          -1.0
+        ],
+        [
+          0.5,
+          1.4,
+          1.0
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.5,
+          0.0,
+          -1.0
+        ],
+        "max": [
+          0.5,
+          1.4,
+          1.0
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.5,
+          0.0,
+          -1.0
+        ],
+        [
+          0.5,
+          1.2,
+          1.0
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.5,
+          -1.5,
+          -1.2
+        ],
+        [
+          0.5,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        -0.5,
+        -1.2
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        1.2,
+        -0.5
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3040b",
+      "glb": "/assets/parts.glb",
+      "shape": "slope",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 322,
+      "source": "https://library.ldraw.org/library/official/parts/3040b.dat",
+      "sourceFiles": [
+        "p/1-4cyls.dat",
+        "p/2-4cyli.dat",
+        "p/2-4edge.dat",
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/stud.dat",
+        "p/stud3a.dat",
+        "parts/3040b.dat",
+        "parts/s/3040s01.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Orion Pobursky [OrionP]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 182,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 308
+    },
+    {
+      "id": "3039",
+      "ldrawId": "3039",
+      "templateId": "ld_3039",
+      "name": "2×2 斜砖",
+      "category": "slopes",
+      "description": "Slope Brick 45  2 x  2",
+      "width": 2.0,
+      "depth": 2.0,
+      "height": 1.2,
+      "meshHeight": 1.4,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -1.0
+        ],
+        [
+          1.0,
+          1.4,
+          1.0
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -1.0
+        ],
+        "max": [
+          1.0,
+          1.4,
+          1.0
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -1.0
+        ],
+        [
+          1.0,
+          1.2,
+          1.0
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -1.5,
+          -1.2
+        ],
+        [
+          1.0,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        -0.5,
+        -1.2
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        1.2,
+        -0.5
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3039",
+      "glb": "/assets/parts.glb",
+      "shape": "slope",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 640,
+      "source": "https://library.ldraw.org/library/official/parts/3039.dat",
+      "sourceFiles": [
+        "p/1-4cyls.dat",
+        "p/2-4chrd.dat",
+        "p/2-4cyli.dat",
+        "p/2-4edge.dat",
+        "p/2-4ndis.dat",
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring3.dat",
+        "p/box3u4a.dat",
+        "p/box4-4a.dat",
+        "p/rect.dat",
+        "p/stud.dat",
+        "p/stud4a.dat",
+        "p/stug-1x2.dat",
+        "parts/3039.dat",
+        "parts/s/3039s01.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Niels Karsdorp [nielsk]",
+        "Philippe Hurbain [Philo]",
+        "Steffen [Steffen]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 341,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 607
+    },
+    {
+      "id": "54200",
+      "ldrawId": "54200",
+      "templateId": "ld_54200",
+      "name": "小斜面",
+      "category": "slopes",
+      "description": "Slope Brick 31  1 x  1 x  0.667",
+      "width": 1.0,
+      "depth": 1.0,
+      "height": 0.78,
+      "meshHeight": 0.78,
+      "bbox": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          0.78,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.78,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          0.78,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.5,
+          -0.5,
+          -0.0
+        ],
+        [
+          0.5,
+          0.5,
+          0.78
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_54200",
+      "glb": "/assets/parts.glb",
+      "shape": "slope",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 203,
+      "source": "https://library.ldraw.org/library/official/parts/54200.dat",
+      "sourceFiles": [
+        "p/box4.dat",
+        "p/rect.dat",
+        "p/rect3.dat",
+        "parts/54200.dat",
+        "parts/s/54200s01.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Mark Kennedy [mkennedy]",
+        "Orion Pobursky [OrionP]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 104,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 210
+    },
+    {
+      "id": "11477",
+      "ldrawId": "11477",
+      "templateId": "ld_11477",
+      "name": "曲面斜砖",
+      "category": "slopes",
+      "description": "Slope Brick Curved  2 x  1",
+      "width": 1.0,
+      "depth": 2.0,
+      "height": 0.80000305,
+      "meshHeight": 0.80000305,
+      "bbox": [
+        [
+          -0.5,
+          0.0,
+          -1.0
+        ],
+        [
+          0.5,
+          0.8000030490000001,
+          1.0
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.5,
+          0.0,
+          -1.0
+        ],
+        "max": [
+          0.5,
+          0.8000030490000001,
+          1.0
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.5,
+          0.0,
+          -1.0
+        ],
+        [
+          0.5,
+          0.8000030490000001,
+          1.0
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.5,
+          -1.0,
+          -0.0
+        ],
+        [
+          0.5,
+          1.0,
+          0.8000030490000001
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_11477",
+      "glb": "/assets/parts.glb",
+      "shape": "slope",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 392,
+      "source": "https://library.ldraw.org/library/official/parts/11477.dat",
+      "sourceFiles": [
+        "p/1-4cyls2.dat",
+        "p/2-4chrd.dat",
+        "p/2-4edge.dat",
+        "p/2-4ndis.dat",
+        "p/48/1-8chrd.dat",
+        "p/48/1-8cyli.dat",
+        "p/48/1-8edge.dat",
+        "p/box2-5.dat",
+        "p/box2-7.dat",
+        "p/box2-9.dat",
+        "p/box4-1.dat",
+        "p/rect.dat",
+        "p/rect3.dat",
+        "p/recte3.dat",
+        "parts/11477.dat",
+        "parts/s/11477s01.dat"
+      ],
+      "authors": [
+        "Chris Dee [cwdee]",
+        "James Jessiman",
+        "Mark Kennedy [mkennedy]",
+        "Owen Burgoyne [C3POwen]",
+        "Philippe Hurbain [Philo]",
+        "Steffen [Steffen]",
+        "Steve Bliss [sbliss]",
+        "Tore Eriksson [Tore_Eriksson]",
+        "Willy Tschager [Holly-Wood]",
+        "[PTadmin]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 208,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 422
+    },
+    {
+      "id": "3700",
+      "ldrawId": "3700",
+      "templateId": "ld_3700",
+      "name": "1×2 孔砖",
+      "category": "technic",
+      "description": "Technic Brick  1 x  2 with Hole",
+      "width": 2.0,
+      "depth": 1.0,
+      "height": 1.2,
+      "meshHeight": 1.4,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        [
+          1.0,
+          1.4,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          1.0,
+          1.4,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        [
+          1.0,
+          1.2,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -0.5,
+          -1.2
+        ],
+        [
+          1.0,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -1.2
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        1.2,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3700",
+      "glb": "/assets/parts.glb",
+      "shape": "technic",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 1014,
+      "source": "https://library.ldraw.org/library/official/parts/3700.dat",
+      "sourceFiles": [
+        "p/2-4cyli.dat",
+        "p/2-4edge.dat",
+        "p/2-4ndis.dat",
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ndis.dat",
+        "p/4-4ring2.dat",
+        "p/4-4ring3.dat",
+        "p/box2-5.dat",
+        "p/box3u2p.dat",
+        "p/cylj4x8.dat",
+        "p/peghole.dat",
+        "p/rect2p.dat",
+        "p/stud2.dat",
+        "p/stud3a.dat",
+        "parts/3700.dat"
+      ],
+      "authors": [
+        "Donald Sutter [technog]",
+        "James Jessiman",
+        "Niels Karsdorp [nielsk]",
+        "Steffen [Steffen]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 559,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 1007
+    },
+    {
+      "id": "3701",
+      "ldrawId": "3701",
+      "templateId": "ld_3701",
+      "name": "1×4 孔砖",
+      "category": "technic",
+      "description": "Technic Brick  1 x  4 with Holes",
+      "width": 4.0,
+      "depth": 1.0,
+      "height": 1.2,
+      "meshHeight": 1.4,
+      "bbox": [
+        [
+          -2.0,
+          0.0,
+          -0.5
+        ],
+        [
+          2.0,
+          1.4,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -2.0,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          2.0,
+          1.4,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -2.0,
+          0.0,
+          -0.5
+        ],
+        [
+          2.0,
+          1.2,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -2.0,
+          -0.5,
+          -1.2
+        ],
+        [
+          2.0,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -1.2
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        1.2,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3701",
+      "glb": "/assets/parts.glb",
+      "shape": "technic",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 2530,
+      "source": "https://library.ldraw.org/library/official/parts/3701.dat",
+      "sourceFiles": [
+        "p/2-4cyli.dat",
+        "p/2-4edge.dat",
+        "p/2-4ndis.dat",
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ndis.dat",
+        "p/4-4ring2.dat",
+        "p/4-4ring3.dat",
+        "p/box2-5.dat",
+        "p/box3u2p.dat",
+        "p/box5-4a.dat",
+        "p/cylj4x8.dat",
+        "p/peghole.dat",
+        "p/rect2p.dat",
+        "p/stud2.dat",
+        "p/stud3a.dat",
+        "parts/3701.dat"
+      ],
+      "authors": [
+        "Donald Sutter [technog]",
+        "James Jessiman",
+        "Niels Karsdorp [nielsk]",
+        "Steffen [Steffen]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 1389,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 2509
+    },
+    {
+      "id": "32316",
+      "ldrawId": "32316",
+      "templateId": "ld_32316",
+      "name": "5 孔梁",
+      "category": "technic",
+      "description": "Technic Beam  5",
+      "width": 0.9,
+      "depth": 4.9,
+      "height": 1.0,
+      "meshHeight": 1.0,
+      "bbox": [
+        [
+          -0.45,
+          0.0,
+          -2.45
+        ],
+        [
+          0.45,
+          1.0,
+          2.45
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.45,
+          0.0,
+          -2.45
+        ],
+        "max": [
+          0.45,
+          1.0,
+          2.45
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.45,
+          0.0,
+          -2.45
+        ],
+        [
+          0.45,
+          1.0,
+          2.45
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.45,
+          -2.45,
+          -0.5
+        ],
+        [
+          0.45,
+          2.45,
+          0.5
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.5
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.5,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_32316",
+      "glb": "/assets/parts.glb",
+      "shape": "technic",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 4140,
+      "source": "https://library.ldraw.org/library/official/parts/32316.dat",
+      "sourceFiles": [
+        "p/1-16cyli.dat",
+        "p/1-16cylo.dat",
+        "p/1-16edge.dat",
+        "p/1-16tang.dat",
+        "p/1-8ndis.dat",
+        "p/2-4cyli.dat",
+        "p/2-4cylo.dat",
+        "p/2-4edge.dat",
+        "p/4-4cyli.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring3.dat",
+        "p/4-4ring8.dat",
+        "p/8/3-8chrd.dat",
+        "p/8/3-8cyli.dat",
+        "p/8/3-8cylo.dat",
+        "p/8/3-8edge.dat",
+        "p/beamhole.dat",
+        "p/connhole.dat",
+        "p/npeghol2.dat",
+        "p/npeghol7.dat",
+        "p/npeghol7a.dat",
+        "p/peghole.dat",
+        "p/rect2p.dat",
+        "parts/32316.dat",
+        "parts/s/32316s01.dat"
+      ],
+      "authors": [
+        "Donald Sutter [technog]",
+        "Gerald Lasser [GeraldLasser]",
+        "James Jessiman",
+        "Jens Brühl [jb70]",
+        "Magnus Forsberg [MagFors]",
+        "Marc Klein [marckl]",
+        "Max Martin Richter [MMR1988]",
+        "Max Murtazin [SwampKryakwa]",
+        "Orion Pobursky [OrionP]",
+        "Philippe Hurbain [Philo]",
+        "Steffen [Steffen]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 2444,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 4580
+    },
+    {
+      "id": "32523",
+      "ldrawId": "32523",
+      "templateId": "ld_32523",
+      "name": "3 孔梁",
+      "category": "technic",
+      "description": "Technic Beam  3",
+      "width": 0.9,
+      "depth": 2.9,
+      "height": 1.0,
+      "meshHeight": 1.0,
+      "bbox": [
+        [
+          -0.45,
+          0.0,
+          -1.45
+        ],
+        [
+          0.45,
+          1.0,
+          1.45
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.45,
+          0.0,
+          -1.45
+        ],
+        "max": [
+          0.45,
+          1.0,
+          1.45
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.45,
+          0.0,
+          -1.45
+        ],
+        [
+          0.45,
+          1.0,
+          1.45
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.45,
+          -1.45,
+          -0.5
+        ],
+        [
+          0.45,
+          1.45,
+          0.5
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.5
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.5,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_32523",
+      "glb": "/assets/parts.glb",
+      "shape": "technic",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 2364,
+      "source": "https://library.ldraw.org/library/official/parts/32523.dat",
+      "sourceFiles": [
+        "p/1-16cyli.dat",
+        "p/1-16cylo.dat",
+        "p/1-16edge.dat",
+        "p/1-16tang.dat",
+        "p/1-8ndis.dat",
+        "p/2-4cyli.dat",
+        "p/2-4edge.dat",
+        "p/4-4cyli.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring3.dat",
+        "p/4-4ring8.dat",
+        "p/8/3-8chrd.dat",
+        "p/8/3-8cyli.dat",
+        "p/8/3-8cylo.dat",
+        "p/8/3-8edge.dat",
+        "p/beamhole.dat",
+        "p/connhole.dat",
+        "p/npeghol2.dat",
+        "p/npeghol7.dat",
+        "p/npeghol7a.dat",
+        "p/peghole.dat",
+        "p/rect2p.dat",
+        "parts/32523.dat",
+        "parts/s/32523s01.dat"
+      ],
+      "authors": [
+        "Donald Sutter [technog]",
+        "Gerald Lasser [GeraldLasser]",
+        "James Jessiman",
+        "Magnus Forsberg [MagFors]",
+        "Marc Klein [marckl]",
+        "Max Martin Richter [MMR1988]",
+        "Max Murtazin [SwampKryakwa]",
+        "Orion Pobursky [OrionP]",
+        "Philippe Hurbain [Philo]",
+        "Steffen [Steffen]",
+        "Tim Gould [timgould]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 1364,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 2580
+    },
+    {
+      "id": "32009",
+      "ldrawId": "32009",
+      "templateId": "ld_32009",
+      "name": "弯曲机械梁",
+      "category": "technic",
+      "description": "Technic Beam  3 x  3.8 x  7 Liftarm Bent 45 Double",
+      "width": 4.9,
+      "depth": 8.9,
+      "height": 1.0,
+      "meshHeight": 1.0,
+      "bbox": [
+        [
+          -2.45,
+          0.0,
+          -4.449999999999999
+        ],
+        [
+          2.45,
+          1.0,
+          4.449999999999999
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -2.45,
+          0.0,
+          -4.449999999999999
+        ],
+        "max": [
+          2.45,
+          1.0,
+          4.449999999999999
+        ]
+      },
+      "bodyBounds": [
+        [
+          -2.45,
+          0.0,
+          -4.449999999999999
+        ],
+        [
+          2.45,
+          1.0,
+          4.449999999999999
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.45,
+          -8.45,
+          -0.5
+        ],
+        [
+          4.45,
+          0.45,
+          0.5
+        ]
+      ],
+      "sourceCenterBlender": [
+        2.0,
+        -3.9999999999999996,
+        -0.5
+      ],
+      "sourceOriginInGame": [
+        -2.0,
+        0.5,
+        -3.9999999999999996
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_32009",
+      "glb": "/assets/parts.glb",
+      "shape": "technic",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 8648,
+      "source": "https://library.ldraw.org/library/official/parts/32009.dat",
+      "sourceFiles": [
+        "p/1-16chrd.dat",
+        "p/1-16cyli.dat",
+        "p/1-16cylo.dat",
+        "p/1-16edge.dat",
+        "p/1-16tang.dat",
+        "p/1-8chrd.dat",
+        "p/1-8cyli.dat",
+        "p/1-8edge.dat",
+        "p/1-8ndis.dat",
+        "p/1-8tang.dat",
+        "p/2-4cyli.dat",
+        "p/2-4cylo.dat",
+        "p/2-4edge.dat",
+        "p/2-4ring2.dat",
+        "p/2-4ring3.dat",
+        "p/2-4ring8.dat",
+        "p/3-16tndis.dat",
+        "p/4-4cyli.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring3.dat",
+        "p/4-4ring8.dat",
+        "p/8/3-8chrd.dat",
+        "p/8/3-8cyli.dat",
+        "p/8/3-8cylo.dat",
+        "p/8/3-8edge.dat",
+        "p/axl5ho10.dat",
+        "p/axl5hol9.dat",
+        "p/axlehol4.dat",
+        "p/beamhole.dat",
+        "p/box2-11.dat",
+        "p/box3u8p.dat",
+        "p/connhole.dat",
+        "p/empty.dat",
+        "p/npeghol2.dat",
+        "p/npeghol3a.dat",
+        "p/npeghol4.dat",
+        "p/npeghol4a.dat",
+        "p/npeghol7.dat",
+        "p/npeghol7a.dat",
+        "p/peghole.dat",
+        "p/rect.dat",
+        "p/rect2p.dat",
+        "p/rect3.dat",
+        "parts/32009.dat"
+      ],
+      "authors": [
+        "Chris Dee [cwdee]",
+        "Donald Sutter [technog]",
+        "Gerald Lasser [GeraldLasser]",
+        "James Jessiman",
+        "Magnus Forsberg [MagFors]",
+        "Marc Klein [marckl]",
+        "Mark Kennedy [mkennedy]",
+        "Massimo Maso [Sirio]",
+        "Max Martin Richter [MMR1988]",
+        "Max Murtazin [SwampKryakwa]",
+        "Orion Pobursky [OrionP]",
+        "Philippe Hurbain [Philo]",
+        "Steffen [Steffen]",
+        "Steve Bliss [sbliss]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 5466,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 9775
+    },
+    {
+      "id": "32062",
+      "ldrawId": "32062",
+      "templateId": "ld_32062",
+      "name": "2L 轴",
+      "category": "pins",
+      "description": "Technic Axle  2 Notched",
+      "width": 1.95,
+      "depth": 0.6,
+      "height": 0.6,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -0.975,
+          0.0,
+          -0.3
+        ],
+        [
+          0.975,
+          0.6,
+          0.3
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.975,
+          0.0,
+          -0.3
+        ],
+        "max": [
+          0.975,
+          0.6,
+          0.3
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.975,
+          0.0,
+          -0.3
+        ],
+        [
+          0.975,
+          0.6,
+          0.3
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.975,
+          -0.3,
+          -0.3
+        ],
+        [
+          0.975,
+          0.3,
+          0.3
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.3
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.3,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_32062",
+      "glb": "/assets/parts.glb",
+      "shape": "pin",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 784,
+      "source": "https://library.ldraw.org/library/official/parts/32062.dat",
+      "sourceFiles": [
+        "p/axleend2.dat",
+        "p/axlehol2.dat",
+        "p/axlehol8.dat",
+        "p/box2-9p.dat",
+        "parts/32062.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Magnus Forsberg [MagFors]",
+        "Steve Bliss [sbliss]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 410,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 896
+    },
+    {
+      "id": "3705",
+      "ldrawId": "3705",
+      "templateId": "ld_3705",
+      "name": "4L 轴",
+      "category": "pins",
+      "description": "Technic Axle  4",
+      "width": 3.95,
+      "depth": 0.6,
+      "height": 0.6,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -1.975,
+          0.0,
+          -0.3
+        ],
+        [
+          1.975,
+          0.6,
+          0.3
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.975,
+          0.0,
+          -0.3
+        ],
+        "max": [
+          1.975,
+          0.6,
+          0.3
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.975,
+          0.0,
+          -0.3
+        ],
+        [
+          1.975,
+          0.6,
+          0.3
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.975,
+          -0.3,
+          -0.3
+        ],
+        [
+          1.975,
+          0.3,
+          0.3
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.3
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.3,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3705",
+      "glb": "/assets/parts.glb",
+      "shape": "pin",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 368,
+      "source": "https://library.ldraw.org/library/official/parts/3705.dat",
+      "sourceFiles": [
+        "p/axleend2.dat",
+        "p/axlehol8.dat",
+        "p/box2-9p.dat",
+        "parts/3705.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Magnus Forsberg [MagFors]",
+        "Steve Bliss [sbliss]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 186,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 354
+    },
+    {
+      "id": "2780",
+      "ldrawId": "2780",
+      "templateId": "ld_2780",
+      "name": "摩擦销",
+      "category": "pins",
+      "description": "Technic Pin with Friction and Slots",
+      "width": 2.0,
+      "depth": 0.80005308,
+      "height": 0.7801,
+      "meshHeight": 0.7801,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -0.40002654
+        ],
+        [
+          1.0,
+          0.7801,
+          0.40002654
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -0.40002654
+        ],
+        "max": [
+          1.0,
+          0.7801,
+          0.40002654
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -0.40002654
+        ],
+        [
+          1.0,
+          0.7801,
+          0.40002654
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -0.40002654,
+          -0.39005
+        ],
+        [
+          1.0,
+          0.40002654,
+          0.39005
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.39005
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.39005,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_2780",
+      "glb": "/assets/parts.glb",
+      "shape": "pin",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 2120,
+      "source": "https://library.ldraw.org/library/official/parts/2780.dat",
+      "sourceFiles": [
+        "p/1-4chrd.dat",
+        "p/1-4cyli.dat",
+        "p/1-4edge.dat",
+        "p/1-4ndis.dat",
+        "p/1-4ring3.dat",
+        "p/1-8ring3.dat",
+        "p/3-8cyli.dat",
+        "p/3-8edge.dat",
+        "p/4-4cyli.dat",
+        "p/confric5.dat",
+        "p/rect1.dat",
+        "p/rect2p.dat",
+        "p/rect3.dat",
+        "parts/2780.dat"
+      ],
+      "authors": [
+        "Chris Dee [cwdee]",
+        "Donald Sutter [technog]",
+        "Guy Vivan [guyvivan]",
+        "James Jessiman",
+        "Mark Kennedy [mkennedy]",
+        "Max Martin Richter [MMR1988]",
+        "Paul Easter [pneaster]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt; Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 1786,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 2531
+    },
+    {
+      "id": "3673",
+      "ldrawId": "3673",
+      "templateId": "ld_3673",
+      "name": "连接销",
+      "category": "pins",
+      "description": "Technic Pin",
+      "width": 2.0,
+      "depth": 0.8,
+      "height": 0.8,
+      "meshHeight": 0.8,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -0.4
+        ],
+        [
+          1.0,
+          0.8,
+          0.4
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -0.4
+        ],
+        "max": [
+          1.0,
+          0.8,
+          0.4
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -0.4
+        ],
+        [
+          1.0,
+          0.8,
+          0.4
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -0.4,
+          -0.4
+        ],
+        [
+          1.0,
+          0.4,
+          0.4
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3673",
+      "glb": "/assets/parts.glb",
+      "shape": "pin",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 1264,
+      "source": "https://library.ldraw.org/library/official/parts/3673.dat",
+      "sourceFiles": [
+        "p/1-4cyli.dat",
+        "p/1-4edge.dat",
+        "p/1-4ndis.dat",
+        "p/3-8cyli.dat",
+        "p/3-8edge.dat",
+        "p/3-8ring12.dat",
+        "p/3-8ring2.dat",
+        "p/4-4cyli.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring3.dat",
+        "p/connect.dat",
+        "parts/3673.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Niels Karsdorp [nielsk]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 928,
+      "defaultMaterial": {
+        "color": "#a9abad",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · light grey"
+      },
+      "gltfVertices": 1444
+    },
+    {
+      "id": "43093",
+      "ldrawId": "43093",
+      "templateId": "ld_43093",
+      "name": "轴销",
+      "category": "pins",
+      "description": "Technic Axle Pin with Friction",
+      "width": 1.975,
+      "depth": 0.8,
+      "height": 0.8,
+      "meshHeight": 0.8,
+      "bbox": [
+        [
+          -0.9875,
+          0.0,
+          -0.4
+        ],
+        [
+          0.9875,
+          0.8,
+          0.4
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.9875,
+          0.0,
+          -0.4
+        ],
+        "max": [
+          0.9875,
+          0.8,
+          0.4
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.9875,
+          0.0,
+          -0.4
+        ],
+        [
+          0.9875,
+          0.8,
+          0.4
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -0.4,
+          -0.4
+        ],
+        [
+          0.975,
+          0.4,
+          0.4
+        ]
+      ],
+      "sourceCenterBlender": [
+        -0.012500000000000011,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        0.012500000000000011,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_43093",
+      "glb": "/assets/parts.glb",
+      "shape": "pin",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 1324,
+      "source": "https://library.ldraw.org/library/official/parts/43093.dat",
+      "sourceFiles": [
+        "p/1-4chrd.dat",
+        "p/1-4cyli.dat",
+        "p/1-4cylo.dat",
+        "p/1-4edge.dat",
+        "p/1-4ndis.dat",
+        "p/3-8cyli.dat",
+        "p/3-8edge.dat",
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring3.dat",
+        "p/axleend2.dat",
+        "p/axleend20.dat",
+        "p/axlehol2.dat",
+        "p/axlehol8.dat",
+        "p/axlehol9.dat",
+        "p/box2-9p.dat",
+        "p/confric4.dat",
+        "p/connect8.dat",
+        "p/fric.dat",
+        "p/rect1.dat",
+        "p/rect2p.dat",
+        "p/rect3.dat",
+        "parts/43093.dat"
+      ],
+      "authors": [
+        "Chris Dee [cwdee]",
+        "Donald Sutter [technog]",
+        "James Jessiman",
+        "Magnus Forsberg [MagFors]",
+        "Mark Kennedy [mkennedy]",
+        "Max Martin Richter [MMR1988]",
+        "Owen Burgoyne [C3POwen]",
+        "Steve Bliss [sbliss]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 863,
+      "defaultMaterial": {
+        "color": "#1d579a",
+        "roughness": 0.28,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · connector blue"
+      },
+      "gltfVertices": 1459
+    },
+    {
+      "id": "6558",
+      "ldrawId": "6558",
+      "templateId": "ld_6558",
+      "name": "长摩擦销",
+      "category": "pins",
+      "description": "Technic Pin Long with Friction and Slot",
+      "width": 3.0,
+      "depth": 0.80005308,
+      "height": 0.7801,
+      "meshHeight": 0.7801,
+      "bbox": [
+        [
+          -1.5,
+          0.0,
+          -0.40002654
+        ],
+        [
+          1.5,
+          0.7801,
+          0.40002654
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.5,
+          0.0,
+          -0.40002654
+        ],
+        "max": [
+          1.5,
+          0.7801,
+          0.40002654
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.5,
+          0.0,
+          -0.40002654
+        ],
+        [
+          1.5,
+          0.7801,
+          0.40002654
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.5,
+          -0.40002654,
+          -0.39005
+        ],
+        [
+          1.5,
+          0.40002654,
+          0.39005
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.39005
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.39005,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_6558",
+      "glb": "/assets/parts.glb",
+      "shape": "pin",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 2892,
+      "source": "https://library.ldraw.org/library/official/parts/6558.dat",
+      "sourceFiles": [
+        "p/1-4chrd.dat",
+        "p/1-4cyli.dat",
+        "p/1-4edge.dat",
+        "p/1-4ndis.dat",
+        "p/1-4ring3.dat",
+        "p/1-8ring3.dat",
+        "p/3-8cyli.dat",
+        "p/3-8edge.dat",
+        "p/4-4cyli.dat",
+        "p/confric5.dat",
+        "p/confric6.dat",
+        "p/confric8.dat",
+        "p/rect1.dat",
+        "p/rect2p.dat",
+        "p/rect3.dat",
+        "parts/6558.dat"
+      ],
+      "authors": [
+        "Chris Dee [cwdee]",
+        "Donald Sutter [technog]",
+        "James Jessiman",
+        "Mark Kennedy [mkennedy]",
+        "Max Martin Richter [MMR1988]",
+        "Paul Easter [pneaster]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 2458,
+      "defaultMaterial": {
+        "color": "#1d579a",
+        "roughness": 0.28,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · connector blue"
+      },
+      "gltfVertices": 3440
+    },
+    {
+      "id": "3937",
+      "ldrawId": "3937",
+      "templateId": "ld_3937",
+      "name": "铰链底座",
+      "category": "hinges",
+      "description": "Hinge  1 x  2 Base",
+      "width": 2.0,
+      "depth": 1.0,
+      "height": 1.1,
+      "meshHeight": 1.1,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        [
+          1.0,
+          1.0999999999999999,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          1.0,
+          1.0999999999999999,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        [
+          1.0,
+          1.0999999999999999,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -0.5,
+          -1.2
+        ],
+        [
+          1.0,
+          0.5,
+          -0.1
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -1.2
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        1.2,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3937",
+      "glb": "/assets/parts.glb",
+      "shape": "hinge",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 690,
+      "source": "https://library.ldraw.org/library/official/parts/3937.dat",
+      "sourceFiles": [
+        "p/1-16tndis.dat",
+        "p/1-8chrd.dat",
+        "p/1-8cyli.dat",
+        "p/1-8cylo.dat",
+        "p/1-8edge.dat",
+        "p/2-4chrd.dat",
+        "p/2-4cyli.dat",
+        "p/2-4cylo.dat",
+        "p/2-4edge.dat",
+        "p/2-4ndis.dat",
+        "p/5-16cyli.dat",
+        "p/5-16cylo.dat",
+        "p/5-16edge.dat",
+        "p/8/3-8chrd.dat",
+        "p/8/3-8cyli.dat",
+        "p/8/3-8cylo.dat",
+        "p/8/3-8edge.dat",
+        "p/box2-5.dat",
+        "p/box3u8p.dat",
+        "p/box4-2p.dat",
+        "p/box4o4a.dat",
+        "p/rect.dat",
+        "p/rect2p.dat",
+        "p/rect3.dat",
+        "parts/3937.dat"
+      ],
+      "authors": [
+        "Donald Sutter [technog]",
+        "James Jessiman",
+        "Mark Kennedy [mkennedy]",
+        "Massimo Maso [Sirio]",
+        "Max Martin Richter [MMR1988]",
+        "Orion Pobursky [OrionP]",
+        "Philippe Hurbain [Philo]",
+        "Steffen [Steffen]",
+        "Tim Gould [timgould]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 376,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 746
+    },
+    {
+      "id": "3938",
+      "ldrawId": "3938",
+      "templateId": "ld_3938",
+      "name": "铰链上件",
+      "category": "hinges",
+      "description": "Hinge  1 x  2 Top",
+      "width": 2.0,
+      "depth": 1.0,
+      "height": 1.0,
+      "meshHeight": 1.0,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        [
+          1.0,
+          1.0,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          1.0,
+          1.0,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -0.5
+        ],
+        [
+          1.0,
+          1.0,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -0.5,
+          -0.8
+        ],
+        [
+          1.0,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.8
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.8,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3938",
+      "glb": "/assets/parts.glb",
+      "shape": "hinge",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 1162,
+      "source": "https://library.ldraw.org/library/official/parts/3938.dat",
+      "sourceFiles": [
+        "p/1-16chrd.dat",
+        "p/1-8chrd.dat",
+        "p/2-4cyli.dat",
+        "p/2-4cylo.dat",
+        "p/2-4edge.dat",
+        "p/3-16chrd.dat",
+        "p/4-4cyli.dat",
+        "p/4-4cylo.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ndis.dat",
+        "p/4-4ring1.dat",
+        "p/4-4ring2.dat",
+        "p/box.dat",
+        "p/box2-5.dat",
+        "p/empty.dat",
+        "p/rect.dat",
+        "p/rect3.dat",
+        "p/stud2.dat",
+        "parts/3938.dat",
+        "parts/s/3938s01.dat"
+      ],
+      "authors": [
+        "Chris Böhnke [KnightOfTarenta]",
+        "James Jessiman",
+        "Mark Kennedy [mkennedy]",
+        "Max Martin Richter [MMR1988]",
+        "Niels Karsdorp [nielsk]",
+        "Orion Pobursky [OrionP]",
+        "Philippe Hurbain [Philo]",
+        "Steffen [Steffen]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 628,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 1182
+    },
+    {
+      "id": "2429",
+      "ldrawId": "2429",
+      "templateId": "ld_2429",
+      "name": "铰链板底",
+      "category": "hinges",
+      "description": "Hinge Plate  1 x  4 Base",
+      "width": 2.4,
+      "depth": 1.4,
+      "height": 0.6,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -1.2,
+          0.0,
+          -0.7
+        ],
+        [
+          1.2,
+          0.6000000000000001,
+          0.7
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.2,
+          0.0,
+          -0.7
+        ],
+        "max": [
+          1.2,
+          0.6000000000000001,
+          0.7
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.2,
+          0.0,
+          -0.7
+        ],
+        [
+          1.2,
+          0.6000000000000001,
+          0.7
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -2.0,
+          -0.4,
+          -0.4
+        ],
+        [
+          0.4,
+          1.0,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        -0.8,
+        0.3,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        0.8,
+        0.4,
+        0.3
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_2429",
+      "glb": "/assets/parts.glb",
+      "shape": "hinge",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 612,
+      "source": "https://library.ldraw.org/library/official/parts/2429.dat",
+      "sourceFiles": [
+        "p/1-4cyli.dat",
+        "p/1-4cylo.dat",
+        "p/1-4edge.dat",
+        "p/1-4ndis.dat",
+        "p/1-4tang.dat",
+        "p/3-4cyli.dat",
+        "p/3-4cylo.dat",
+        "p/3-4edge.dat",
+        "p/3-4ring1.dat",
+        "p/4-4cyli.dat",
+        "p/4-4cylo.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring1.dat",
+        "p/48/1-12chrd.dat",
+        "p/48/1-12cyli.dat",
+        "p/48/1-12cylo.dat",
+        "p/48/1-12edge.dat",
+        "p/box2-5.dat",
+        "p/rect3.dat",
+        "p/stud.dat",
+        "p/stud3.dat",
+        "p/stug-1x2.dat",
+        "parts/2429.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Mark Kennedy [mkennedy]",
+        "Max Martin Richter [MMR1988]",
+        "Philippe Hurbain [Philo]",
+        "Steffen [Steffen]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 342,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 629
+    },
+    {
+      "id": "2430",
+      "ldrawId": "2430",
+      "templateId": "ld_2430",
+      "name": "铰链板顶",
+      "category": "hinges",
+      "description": "Hinge Plate  1 x  4 Top",
+      "width": 2.4,
+      "depth": 1.4,
+      "height": 0.6,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -1.2,
+          0.0,
+          -0.7
+        ],
+        [
+          1.2,
+          0.6000000000000001,
+          0.7
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.2,
+          0.0,
+          -0.7
+        ],
+        "max": [
+          1.2,
+          0.6000000000000001,
+          0.7
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.2,
+          0.0,
+          -0.7
+        ],
+        [
+          1.2,
+          0.6000000000000001,
+          0.7
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.4,
+          -0.4,
+          -0.4
+        ],
+        [
+          2.0,
+          1.0,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.8,
+        0.3,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.8,
+        0.4,
+        0.3
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_2430",
+      "glb": "/assets/parts.glb",
+      "shape": "hinge",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 1012,
+      "source": "https://library.ldraw.org/library/official/parts/2430.dat",
+      "sourceFiles": [
+        "p/1-4cyli.dat",
+        "p/1-4edge.dat",
+        "p/1-4ndis.dat",
+        "p/3-4cyli.dat",
+        "p/3-4edge.dat",
+        "p/3-8cyli.dat",
+        "p/3-8edge.dat",
+        "p/3-8ring12.dat",
+        "p/3-8ring2.dat",
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/connect2.dat",
+        "p/rect.dat",
+        "p/rect2p.dat",
+        "p/rect3.dat",
+        "p/stud.dat",
+        "p/stud3.dat",
+        "parts/2430.dat"
+      ],
+      "authors": [
+        "Donald Sutter [technog]",
+        "James Jessiman",
+        "Mark Kennedy [mkennedy]",
+        "Niels Karsdorp [nielsk]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 675,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 1151
+    },
+    {
+      "id": "60470b",
+      "ldrawId": "60470b",
+      "templateId": "ld_60470b",
+      "name": "双横夹板",
+      "category": "clips",
+      "description": "Plate  1 x  2 with  2 Clips Horizontal (Thick C-Clips)",
+      "width": 2.0,
+      "depth": 1.70149,
+      "height": 0.74479468,
+      "meshHeight": 0.74479468,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -0.8507450000000001
+        ],
+        [
+          1.0,
+          0.7447946754000001,
+          0.8507450000000001
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -0.8507450000000001
+        ],
+        "max": [
+          1.0,
+          0.7447946754000001,
+          0.8507450000000001
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -0.8507450000000001
+        ],
+        [
+          1.0,
+          0.7447946754000001,
+          0.8507450000000001
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -1.2014900000000002,
+          -0.47239733770000003
+        ],
+        [
+          1.0,
+          0.5,
+          0.2723973377
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        -0.3507450000000001,
+        -0.47239733770000003
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.47239733770000003,
+        -0.3507450000000001
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_60470b",
+      "glb": "/assets/parts.glb",
+      "shape": "bracket",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 680,
+      "source": "https://library.ldraw.org/library/official/parts/60470b.dat",
+      "sourceFiles": [
+        "p/1-16ndis.dat",
+        "p/1-4chrd.dat",
+        "p/1-4cyli.dat",
+        "p/1-4cylo.dat",
+        "p/1-4edge.dat",
+        "p/1-4ndis.dat",
+        "p/3-16chrd.dat",
+        "p/3-16cyli.dat",
+        "p/3-16cylo.dat",
+        "p/3-16edge.dat",
+        "p/3-16ndis.dat",
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/5-8cyli.dat",
+        "p/5-8edge.dat",
+        "p/box2-5.dat",
+        "p/box3u2p.dat",
+        "p/box5.dat",
+        "p/clip6.dat",
+        "p/rect.dat",
+        "p/rect2p.dat",
+        "p/rect3.dat",
+        "p/stud.dat",
+        "p/stud3.dat",
+        "p/stug-2x1.dat",
+        "parts/60470b.dat"
+      ],
+      "authors": [
+        "Donald Sutter [technog]",
+        "J.C. Tchang [tchang]",
+        "James Jessiman",
+        "Magnus Forsberg [MagFors]",
+        "Mark Kennedy [mkennedy]",
+        "Max Martin Richter [MMR1988]",
+        "Niels Karsdorp [nielsk]",
+        "Steffen [Steffen]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 487,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 767
+    },
+    {
+      "id": "60478",
+      "ldrawId": "60478",
+      "templateId": "ld_60478",
+      "name": "端部横杆板",
+      "category": "clips",
+      "description": "Plate  1 x  2 with Handle on End",
+      "width": 2.8,
+      "depth": 1.0,
+      "height": 0.6,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -1.4,
+          0.0,
+          -0.5
+        ],
+        [
+          1.4,
+          0.6000000000000001,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.4,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          1.4,
+          0.6000000000000001,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.4,
+          0.0,
+          -0.5
+        ],
+        [
+          1.4,
+          0.6000000000000001,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -0.5,
+          -0.4
+        ],
+        [
+          1.8,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.4,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.4,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_60478",
+      "glb": "/assets/parts.glb",
+      "shape": "bracket",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 704,
+      "source": "https://library.ldraw.org/library/official/parts/60478.dat",
+      "sourceFiles": [
+        "p/1-16tang.dat",
+        "p/1-4ndis.dat",
+        "p/2-4chrd.dat",
+        "p/2-4cyli.dat",
+        "p/2-4cylo.dat",
+        "p/2-4edge.dat",
+        "p/2-4ring2.dat",
+        "p/3-16chrd.dat",
+        "p/3-16cyli.dat",
+        "p/3-16cylo.dat",
+        "p/3-16edge.dat",
+        "p/3-16ring2.dat",
+        "p/4-4cyli.dat",
+        "p/4-4cylo.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/box3u4a.dat",
+        "p/box5.dat",
+        "p/phandle1.dat",
+        "p/rect.dat",
+        "p/rect2p.dat",
+        "p/rect3.dat",
+        "p/stud.dat",
+        "p/stud3.dat",
+        "p/stug-1x2.dat",
+        "parts/60478.dat"
+      ],
+      "authors": [
+        "Chris Dee [cwdee]",
+        "Donald Sutter [technog]",
+        "Gerald Lasser [GeraldLasser]",
+        "J.C. Tchang [tchang]",
+        "James Jessiman",
+        "Mark Kennedy [mkennedy]",
+        "Max Martin Richter [MMR1988]",
+        "Michael Heidemann [mikeheide]",
+        "Niels Karsdorp [nielsk]",
+        "Philippe Hurbain [Philo]",
+        "Steffen [Steffen]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 387,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 719
+    },
+    {
+      "id": "11090",
+      "ldrawId": "11090",
+      "templateId": "ld_11090",
+      "name": "管夹",
+      "category": "clips",
+      "description": "Bar Tube with Clip",
+      "width": 0.74479468,
+      "depth": 0.625,
+      "height": 1.70149,
+      "meshHeight": 1.70149,
+      "bbox": [
+        [
+          -0.3723973377,
+          0.0,
+          -0.3125
+        ],
+        [
+          0.3723973377,
+          1.70149,
+          0.3125
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.3723973377,
+          0.0,
+          -0.3125
+        ],
+        "max": [
+          0.3723973377,
+          1.70149,
+          0.3125
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.3723973377,
+          0.0,
+          -0.3125
+        ],
+        [
+          0.3723973377,
+          1.70149,
+          0.3125
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.3723973377,
+          -0.3125,
+          -1.5
+        ],
+        [
+          0.3723973377,
+          0.3125,
+          0.20149
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -1.5
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        1.5,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_11090",
+      "glb": "/assets/parts.glb",
+      "shape": "bracket",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 376,
+      "source": "https://library.ldraw.org/library/official/parts/11090.dat",
+      "sourceFiles": [
+        "p/1-16ndis.dat",
+        "p/1-4chrd.dat",
+        "p/1-4cyli.dat",
+        "p/1-4cylo.dat",
+        "p/1-4edge.dat",
+        "p/1-4ndis.dat",
+        "p/4-4cylc.dat",
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ndis.dat",
+        "p/5-8cyli.dat",
+        "p/5-8edge.dat",
+        "p/box4o8a.dat",
+        "p/clip5.dat",
+        "p/rect.dat",
+        "p/rect3.dat",
+        "p/recte4.dat",
+        "parts/11090.dat"
+      ],
+      "authors": [
+        "Alex Taylor [anathema]",
+        "James Jessiman",
+        "Mark Kennedy [mkennedy]",
+        "Max Martin Richter [MMR1988]",
+        "Niels Karsdorp [nielsk]",
+        "Philippe Hurbain [Philo]",
+        "Steffen [Steffen]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 249,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 433
+    },
+    {
+      "id": "4070",
+      "ldrawId": "4070",
+      "templateId": "ld_4070",
+      "name": "侧凸点砖",
+      "category": "clips",
+      "description": "Brick  1 x  1 with Headlight",
+      "width": 1.0,
+      "depth": 1.0,
+      "height": 1.2,
+      "meshHeight": 1.4,
+      "bbox": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          1.4,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          1.4,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          1.2,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.5,
+          -0.5,
+          -1.2
+        ],
+        [
+          0.5,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -1.2
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        1.2,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_4070",
+      "glb": "/assets/parts.glb",
+      "shape": "bracket",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 548,
+      "source": "https://library.ldraw.org/library/official/parts/4070.dat",
+      "sourceFiles": [
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ndis.dat",
+        "p/4-4ring2.dat",
+        "p/rect.dat",
+        "p/stud.dat",
+        "p/stud2a.dat",
+        "parts/4070.dat"
+      ],
+      "authors": [
+        "James Jessiman"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 285,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 529
+    },
+    {
+      "id": "99207",
+      "ldrawId": "99207",
+      "templateId": "ld_99207",
+      "name": "上翻支架",
+      "category": "clips",
+      "description": "Bracket  1 x  2 -  2 x  2 Up",
+      "width": 2.0,
+      "depth": 1.4,
+      "height": 2.0,
+      "meshHeight": 2.0,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -0.7
+        ],
+        [
+          1.0,
+          2.0,
+          0.7
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -0.7
+        ],
+        "max": [
+          1.0,
+          2.0,
+          0.7
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -0.7
+        ],
+        [
+          1.0,
+          2.0,
+          0.7
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -0.9,
+          -0.4
+        ],
+        [
+          1.0,
+          0.5,
+          1.6
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        -0.2,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        -0.2
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_99207",
+      "glb": "/assets/parts.glb",
+      "shape": "bracket",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 1126,
+      "source": "https://library.ldraw.org/library/official/parts/99207.dat",
+      "sourceFiles": [
+        "p/1-4chrd.dat",
+        "p/1-4cylc.dat",
+        "p/1-4cyli.dat",
+        "p/1-4disc.dat",
+        "p/1-4edge.dat",
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring2.dat",
+        "p/box2-11.dat",
+        "p/box2-7.dat",
+        "p/box4-2p.dat",
+        "p/box4-4a.dat",
+        "p/rect2p.dat",
+        "p/rect3.dat",
+        "p/recte4.dat",
+        "p/stud.dat",
+        "p/stud2.dat",
+        "p/stud3.dat",
+        "p/stug-2x1.dat",
+        "p/stug2-1x2.dat",
+        "parts/99207.dat"
+      ],
+      "authors": [
+        "Donald Sutter [technog]",
+        "James Jessiman",
+        "Magnus Forsberg [MagFors]",
+        "Mark Kennedy [mkennedy]",
+        "Max Martin Richter [MMR1988]",
+        "Steffen [Steffen]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 671,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 1171
+    },
+    {
+      "id": "44728",
+      "ldrawId": "44728",
+      "templateId": "ld_44728",
+      "name": "下翻支架",
+      "category": "clips",
+      "description": "Bracket  1 x  2 -  2 x  2 Down",
+      "width": 2.0,
+      "depth": 1.4,
+      "height": 2.2,
+      "meshHeight": 2.2,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -0.7
+        ],
+        [
+          1.0,
+          2.2,
+          0.7
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -0.7
+        ],
+        "max": [
+          1.0,
+          2.2,
+          0.7
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -0.7
+        ],
+        [
+          1.0,
+          2.2,
+          0.7
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -0.9,
+          -2.0
+        ],
+        [
+          1.0,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        -0.2,
+        -2.0
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        2.0,
+        -0.2
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_44728",
+      "glb": "/assets/parts.glb",
+      "shape": "bracket",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 1134,
+      "source": "https://library.ldraw.org/library/official/parts/44728.dat",
+      "sourceFiles": [
+        "p/1-4cyli.dat",
+        "p/1-4disc.dat",
+        "p/1-4edge.dat",
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring2.dat",
+        "p/box.dat",
+        "p/box4-1.dat",
+        "p/rect.dat",
+        "p/rect3.dat",
+        "p/stud.dat",
+        "p/stud2.dat",
+        "p/stud3.dat",
+        "parts/44728.dat"
+      ],
+      "authors": [
+        "Brent Jackson [bjackson]",
+        "James Jessiman",
+        "Mark Kennedy [mkennedy]",
+        "Tore Eriksson [Tore_Eriksson]"
+      ],
+      "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt; Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 675,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 1169
+    },
+    {
+      "id": "14417",
+      "ldrawId": "14417",
+      "templateId": "ld_14417",
+      "name": "球头侧接板",
+      "category": "joints",
+      "description": "Plate  1 x  2 with Ball Joint-8 on Side",
+      "width": 2.0,
+      "depth": 1.9,
+      "height": 0.8,
+      "meshHeight": 0.8,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -0.95
+        ],
+        [
+          1.0,
+          0.8,
+          0.95
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -0.95
+        ],
+        "max": [
+          1.0,
+          0.8,
+          0.95
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -0.95
+        ],
+        [
+          1.0,
+          0.8,
+          0.95
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -1.4,
+          -0.6
+        ],
+        [
+          1.0,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        -0.44999999999999996,
+        -0.6
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.6,
+        -0.44999999999999996
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_14417",
+      "glb": "/assets/parts.glb",
+      "shape": "balljoint",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 684,
+      "source": "https://library.ldraw.org/library/official/parts/14417.dat",
+      "sourceFiles": [
+        "p/1-8sphe.dat",
+        "p/4-4cyl1sph2.dat",
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring2.dat",
+        "p/8-8sphe.dat",
+        "p/box5.dat",
+        "p/joint8ball.dat",
+        "p/stud2.dat",
+        "p/stud3.dat",
+        "p/stug2-1x2.dat",
+        "parts/14417.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Magnus Forsberg [MagFors]",
+        "Owen Burgoyne [C3POwen]",
+        "Steffen [Steffen]",
+        "Tim Gould [timgould]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 403,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 611
+    },
+    {
+      "id": "14418",
+      "ldrawId": "14418",
+      "templateId": "ld_14418",
+      "name": "球窝侧接板",
+      "category": "joints",
+      "description": "Plate  1 x  2 with Socket Joint-8 with Friction",
+      "width": 2.75,
+      "depth": 1.0,
+      "height": 0.7875,
+      "meshHeight": 0.7875,
+      "bbox": [
+        [
+          -1.375,
+          0.0,
+          -0.5
+        ],
+        [
+          1.375,
+          0.7875000000000001,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.375,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          1.375,
+          0.7875000000000001,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.375,
+          0.0,
+          -0.5
+        ],
+        [
+          1.375,
+          0.7875000000000001,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -0.5,
+          -0.5875
+        ],
+        [
+          1.75,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.375,
+        0.0,
+        -0.5875
+      ],
+      "sourceOriginInGame": [
+        -0.375,
+        0.5875,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_14418",
+      "glb": "/assets/parts.glb",
+      "shape": "balljoint",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 1454,
+      "source": "https://library.ldraw.org/library/official/parts/14418.dat",
+      "sourceFiles": [
+        "p/1-4cylc.dat",
+        "p/1-4cyli.dat",
+        "p/1-4disc.dat",
+        "p/1-4edge.dat",
+        "p/1-8sphc.dat",
+        "p/2-4chrd.dat",
+        "p/2-4cylc.dat",
+        "p/2-4cyli.dat",
+        "p/2-4cylo.dat",
+        "p/2-4disc.dat",
+        "p/2-4edge.dat",
+        "p/2-4ndis.dat",
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring2.dat",
+        "p/box3u2p.dat",
+        "p/box3u4a.dat",
+        "p/box4-4a.dat",
+        "p/joint8socket1.dat",
+        "p/joint8socket3.dat",
+        "p/rect2p.dat",
+        "p/stud2.dat",
+        "p/stud3.dat",
+        "p/stug2-1x2.dat",
+        "parts/14418.dat",
+        "parts/s/14418s01.dat"
+      ],
+      "authors": [
+        "Alex Taylor [anathema]",
+        "Donald Sutter [technog]",
+        "Franklin W. Cain [fwcain]",
+        "James Jessiman",
+        "Magnus Forsberg [MagFors]",
+        "Mark Kennedy [mkennedy]",
+        "Max Martin Richter [MMR1988]",
+        "Niels Karsdorp [nielsk]",
+        "Philippe Hurbain [Philo]",
+        "Steffen [Steffen]",
+        "Tim Gould [timgould]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 792,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 1412
+    },
+    {
+      "id": "14704",
+      "ldrawId": "14704",
+      "templateId": "ld_14704",
+      "name": "中心球窝板",
+      "category": "joints",
+      "description": "Plate  1 x  2 with Socket Joint-8 with Friction Centre",
+      "width": 2.0,
+      "depth": 1.75,
+      "height": 0.7875,
+      "meshHeight": 0.7875,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -0.875
+        ],
+        [
+          1.0,
+          0.7875000000000001,
+          0.875
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -0.875
+        ],
+        "max": [
+          1.0,
+          0.7875000000000001,
+          0.875
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -0.875
+        ],
+        [
+          1.0,
+          0.7875000000000001,
+          0.875
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -1.25,
+          -0.5875
+        ],
+        [
+          1.0,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        -0.375,
+        -0.5875
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.5875,
+        -0.375
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_14704",
+      "glb": "/assets/parts.glb",
+      "shape": "balljoint",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 1553,
+      "source": "https://library.ldraw.org/library/official/parts/14704.dat",
+      "sourceFiles": [
+        "p/1-4chrd.dat",
+        "p/1-4cyli.dat",
+        "p/1-4cylo.dat",
+        "p/1-4edge.dat",
+        "p/1-4ndis.dat",
+        "p/1-8sphc.dat",
+        "p/2-4chrd.dat",
+        "p/2-4cyli.dat",
+        "p/2-4cylo.dat",
+        "p/2-4edge.dat",
+        "p/2-4ndis.dat",
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring2.dat",
+        "p/box4-4a.dat",
+        "p/joint8socket1.dat",
+        "p/joint8socket3.dat",
+        "p/rect2p.dat",
+        "p/rect3.dat",
+        "p/stud2.dat",
+        "p/stud3.dat",
+        "p/stug2-1x2.dat",
+        "parts/14704.dat"
+      ],
+      "authors": [
+        "Donald Sutter [technog]",
+        "Franklin W. Cain [fwcain]",
+        "James Jessiman",
+        "Magnus Forsberg [MagFors]",
+        "Mark Kennedy [mkennedy]",
+        "Max Martin Richter [MMR1988]",
+        "Philippe Hurbain [Philo]",
+        "Steffen [Steffen]",
+        "Tim Gould [timgould]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 832,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 1516
+    },
+    {
+      "id": "98138",
+      "ldrawId": "98138",
+      "templateId": "ld_98138",
+      "name": "圆光面",
+      "category": "rounds",
+      "description": "Tile  1 x  1 Round with Groove",
+      "width": 1.0,
+      "depth": 1.0,
+      "height": 0.4,
+      "meshHeight": 0.4,
+      "bbox": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          0.4,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.4,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          0.4,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.5,
+          -0.5,
+          -0.4
+        ],
+        [
+          0.5,
+          0.5,
+          -0.0
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_98138",
+      "glb": "/assets/parts.glb",
+      "shape": "round",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 448,
+      "source": "https://library.ldraw.org/library/official/parts/98138.dat",
+      "sourceFiles": [
+        "p/4-4cylc.dat",
+        "p/4-4cyli.dat",
+        "p/4-4cylo.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring3.dat",
+        "p/4-4ring8.dat",
+        "p/4-4ring9.dat",
+        "p/stud4o.dat",
+        "parts/98138.dat",
+        "parts/s/98138s01.dat",
+        "parts/s/98138s02.dat"
+      ],
+      "authors": [
+        "Alex Taylor [anathema]",
+        "James Jessiman",
+        "Magnus Forsberg [MagFors]",
+        "Mark Kennedy [mkennedy]",
+        "Steffen [Steffen]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 226,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 418
+    },
+    {
+      "id": "3062b",
+      "ldrawId": "3062b",
+      "templateId": "ld_3062b",
+      "name": "空心圆柱砖",
+      "category": "rounds",
+      "description": "Brick  1 x  1 Round with Hollow Stud",
+      "width": 1.0,
+      "depth": 1.0,
+      "height": 1.2,
+      "meshHeight": 1.4,
+      "bbox": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          1.4,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          1.4,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          1.2,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.5,
+          -0.5,
+          -1.2
+        ],
+        [
+          0.5,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -1.2
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        1.2,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_3062b",
+      "glb": "/assets/parts.glb",
+      "shape": "round",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 704,
+      "source": "https://library.ldraw.org/library/official/parts/3062b.dat",
+      "sourceFiles": [
+        "p/4-4cyli.dat",
+        "p/4-4cylo.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring2.dat",
+        "p/4-4ring3.dat",
+        "p/4-4ring4.dat",
+        "p/stud2a.dat",
+        "p/stud4od.dat",
+        "parts/3062b.dat",
+        "parts/s/3062bs01.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Mark Kennedy [mkennedy]",
+        "Philippe Hurbain [Philo]",
+        "Takeshi Takahashi [RainbowDolphin]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 352,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 672
+    },
+    {
+      "id": "6141",
+      "ldrawId": "6141",
+      "templateId": "ld_6141",
+      "name": "圆薄板",
+      "category": "rounds",
+      "description": "Plate  1 x  1 Round",
+      "width": 1.0,
+      "depth": 1.0,
+      "height": 0.4,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          0.6000000000000001,
+          0.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.6000000000000001,
+          0.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -0.5,
+          0.0,
+          -0.5
+        ],
+        [
+          0.5,
+          0.4,
+          0.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -0.5,
+          -0.5,
+          -0.4
+        ],
+        [
+          0.5,
+          0.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_6141",
+      "glb": "/assets/parts.glb",
+      "shape": "round",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 544,
+      "source": "https://library.ldraw.org/library/official/parts/6141.dat",
+      "sourceFiles": [
+        "p/4-4cyli.dat",
+        "p/4-4cylo.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring3.dat",
+        "p/4-4ring4.dat",
+        "p/stud.dat",
+        "p/stud4.dat",
+        "parts/6141.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Mark Kennedy [mkennedy]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 274,
+      "defaultMaterial": {
+        "color": "#bd9027",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · warm ochre"
+      },
+      "gltfVertices": 530
+    },
+    {
+      "id": "4740",
+      "ldrawId": "4740",
+      "templateId": "ld_4740",
+      "name": "反碟形件",
+      "category": "rounds",
+      "description": "Dish  2 x  2 Inverted",
+      "width": 2.0,
+      "depth": 2.0,
+      "height": 0.4,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -1.0
+        ],
+        [
+          1.0,
+          0.6000000000000001,
+          1.0
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -1.0
+        ],
+        "max": [
+          1.0,
+          0.6000000000000001,
+          1.0
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -1.0
+        ],
+        [
+          1.0,
+          0.4,
+          1.0
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -1.0,
+          -0.4
+        ],
+        [
+          1.0,
+          1.0,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_4740",
+      "glb": "/assets/parts.glb",
+      "shape": "round",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 832,
+      "source": "https://library.ldraw.org/library/official/parts/4740.dat",
+      "sourceFiles": [
+        "p/4-4con1.dat",
+        "p/4-4con3.dat",
+        "p/4-4con4.dat",
+        "p/4-4cyli.dat",
+        "p/4-4cylo.dat",
+        "p/4-4edge.dat",
+        "p/4-4ring2.dat",
+        "p/4-4ring3.dat",
+        "p/stud2a.dat",
+        "p/stud4a.dat",
+        "parts/4740.dat",
+        "parts/s/4740s01.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Mark Kennedy [mkennedy]",
+        "Niels Karsdorp [nielsk]",
+        "Philippe Hurbain [Philo]",
+        "Steve Bliss [sbliss]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 416,
+      "defaultMaterial": {
+        "color": "#505659",
+        "roughness": 0.30000001,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.47000003,
+        "name": "Plastic · neutral mechanical grey"
+      },
+      "gltfVertices": 736
+    },
+    {
+      "id": "62360",
+      "ldrawId": "62360",
+      "templateId": "ld_62360",
+      "name": "透明曲面座舱",
+      "category": "rounds",
+      "description": "Windscreen  3 x  6 x  1 Curved",
+      "width": 6.0,
+      "depth": 2.9902,
+      "height": 1.2,
+      "meshHeight": 1.2,
+      "bbox": [
+        [
+          -3.0,
+          0.0,
+          -1.4951
+        ],
+        [
+          3.0,
+          1.2,
+          1.4951
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -3.0,
+          0.0,
+          -1.4951
+        ],
+        "max": [
+          3.0,
+          1.2,
+          1.4951
+        ]
+      },
+      "bodyBounds": [
+        [
+          -3.0,
+          0.0,
+          -1.4951
+        ],
+        [
+          3.0,
+          1.2,
+          1.4951
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -3.0,
+          -2.4902,
+          -1.2
+        ],
+        [
+          3.0,
+          0.5,
+          -0.0
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        -0.9951000000000001,
+        -1.2
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        1.2,
+        -0.9951000000000001
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_62360",
+      "glb": "/assets/parts.glb",
+      "shape": "canopy",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 1642,
+      "source": "https://library.ldraw.org/library/official/parts/62360.dat",
+      "sourceFiles": [
+        "p/1-4cyli.dat",
+        "p/1-4disc.dat",
+        "p/1-4edge.dat",
+        "p/1-4ndis.dat",
+        "p/4-4cyli.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "parts/62360.dat",
+        "parts/s/62360s01.dat",
+        "parts/s/62360s02.dat"
+      ],
+      "authors": [
+        "James Jessiman",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 851,
+      "defaultMaterial": {
+        "color": "#d5a13a",
+        "roughness": 0.15000001,
+        "metalness": 0.0,
+        "transmission": 0.85000002,
+        "ior": 1.47000003,
+        "name": "Plastic · amber transparent"
+      },
+      "gltfVertices": 1657
+    }
+  ],
+  "categories": [
+    {
+      "id": "bricks",
+      "name": "基础砖"
+    },
+    {
+      "id": "plates",
+      "name": "薄板"
+    },
+    {
+      "id": "tiles",
+      "name": "光面与格栅"
+    },
+    {
+      "id": "slopes",
+      "name": "斜面与曲面"
+    },
+    {
+      "id": "technic",
+      "name": "机械梁与孔砖"
+    },
+    {
+      "id": "pins",
+      "name": "轴与连接销"
+    },
+    {
+      "id": "hinges",
+      "name": "铰链"
+    },
+    {
+      "id": "clips",
+      "name": "夹口与侧向连接"
+    },
+    {
+      "id": "joints",
+      "name": "球形关节"
+    },
+    {
+      "id": "rounds",
+      "name": "圆形件与座舱"
+    }
+  ],
+  "statistics": {
+    "bytes": 1997652,
+    "rootNodes": 47,
+    "triangles": 62560,
+    "nodes": {
+      "part_2412b": {
+        "triangles": 310,
+        "vertices": 352,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -0.5
+          ],
+          [
+            1.0,
+            0.4000000059604645,
+            0.5
+          ]
+        ]
+      },
+      "part_2429": {
+        "triangles": 612,
+        "vertices": 629,
+        "bbox": [
+          [
+            -1.2000000476837158,
+            0.0,
+            -0.699999988079071
+          ],
+          [
+            1.2000000476837158,
+            0.6000000238418579,
+            0.7000000476837158
+          ]
+        ]
+      },
+      "part_2430": {
+        "triangles": 1012,
+        "vertices": 1151,
+        "bbox": [
+          [
+            -1.2000000476837158,
+            0.0,
+            -0.699999988079071
+          ],
+          [
+            1.2000000476837158,
+            0.6000000238418579,
+            0.7000000476837158
+          ]
+        ]
+      },
+      "part_2431": {
+        "triangles": 380,
+        "vertices": 387,
+        "bbox": [
+          [
+            -2.0,
+            0.0,
+            -0.5
+          ],
+          [
+            2.0,
+            0.4000000059604645,
+            0.5
+          ]
+        ]
+      },
+      "part_2780": {
+        "triangles": 2120,
+        "vertices": 2531,
+        "bbox": [
+          [
+            -1.0,
+            0.0019031167030334473,
+            -0.4000265300273895
+          ],
+          [
+            1.0,
+            0.7781968712806702,
+            0.4000265300273895
+          ]
+        ]
+      },
+      "part_3001": {
+        "triangles": 1212,
+        "vertices": 1224,
+        "bbox": [
+          [
+            -2.0,
+            0.0,
+            -1.0
+          ],
+          [
+            2.0,
+            1.4000000953674316,
+            1.0
+          ]
+        ]
+      },
+      "part_3004": {
+        "triangles": 332,
+        "vertices": 339,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -0.5
+          ],
+          [
+            1.0,
+            1.4000000953674316,
+            0.5
+          ]
+        ]
+      },
+      "part_3005": {
+        "triangles": 172,
+        "vertices": 177,
+        "bbox": [
+          [
+            -0.5,
+            0.0,
+            -0.5
+          ],
+          [
+            0.5,
+            1.4000000953674316,
+            0.5
+          ]
+        ]
+      },
+      "part_3020": {
+        "triangles": 1212,
+        "vertices": 1224,
+        "bbox": [
+          [
+            -2.0,
+            0.0,
+            -1.0
+          ],
+          [
+            2.0,
+            0.6000000238418579,
+            1.0
+          ]
+        ]
+      },
+      "part_3022": {
+        "triangles": 572,
+        "vertices": 580,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -1.0
+          ],
+          [
+            1.0,
+            0.6000000238418579,
+            1.0
+          ]
+        ]
+      },
+      "part_3023": {
+        "triangles": 332,
+        "vertices": 339,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -0.5
+          ],
+          [
+            1.0,
+            0.6000000238418579,
+            0.5
+          ]
+        ]
+      },
+      "part_3024": {
+        "triangles": 172,
+        "vertices": 177,
+        "bbox": [
+          [
+            -0.5,
+            0.0,
+            -0.5
+          ],
+          [
+            0.5,
+            0.6000000238418579,
+            0.5
+          ]
+        ]
+      },
+      "part_3034": {
+        "triangles": 2492,
+        "vertices": 2512,
+        "bbox": [
+          [
+            -4.0,
+            0.0,
+            -1.0
+          ],
+          [
+            4.0,
+            0.6000000238418579,
+            1.0
+          ]
+        ]
+      },
+      "part_3036": {
+        "triangles": 9532,
+        "vertices": 9584,
+        "bbox": [
+          [
+            -4.0,
+            0.0,
+            -3.0
+          ],
+          [
+            4.0,
+            0.6000000238418579,
+            3.0
+          ]
+        ]
+      },
+      "part_3039": {
+        "triangles": 640,
+        "vertices": 607,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -1.0
+          ],
+          [
+            1.0,
+            1.4000000953674316,
+            1.0
+          ]
+        ]
+      },
+      "part_3040b": {
+        "triangles": 322,
+        "vertices": 308,
+        "bbox": [
+          [
+            -0.5,
+            0.0,
+            -1.0
+          ],
+          [
+            0.5,
+            1.4000000953674316,
+            1.0
+          ]
+        ]
+      },
+      "part_3062b": {
+        "triangles": 704,
+        "vertices": 672,
+        "bbox": [
+          [
+            -0.5,
+            0.0,
+            -0.5
+          ],
+          [
+            0.5,
+            1.4000000953674316,
+            0.5
+          ]
+        ]
+      },
+      "part_3069b": {
+        "triangles": 140,
+        "vertices": 144,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -0.5
+          ],
+          [
+            1.0,
+            0.4000000059604645,
+            0.5
+          ]
+        ]
+      },
+      "part_3070b": {
+        "triangles": 140,
+        "vertices": 144,
+        "bbox": [
+          [
+            -0.5,
+            0.0,
+            -0.5
+          ],
+          [
+            0.5,
+            0.4000000059604645,
+            0.5
+          ]
+        ]
+      },
+      "part_3673": {
+        "triangles": 1264,
+        "vertices": 1444,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -0.4000000059604645
+          ],
+          [
+            1.0,
+            0.800000011920929,
+            0.4000000059604645
+          ]
+        ]
+      },
+      "part_3700": {
+        "triangles": 1014,
+        "vertices": 1007,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -0.5
+          ],
+          [
+            1.0,
+            1.4000000953674316,
+            0.5
+          ]
+        ]
+      },
+      "part_3701": {
+        "triangles": 2530,
+        "vertices": 2509,
+        "bbox": [
+          [
+            -2.0,
+            0.0,
+            -0.5
+          ],
+          [
+            2.0,
+            1.4000000953674316,
+            0.5
+          ]
+        ]
+      },
+      "part_3705": {
+        "triangles": 368,
+        "vertices": 354,
+        "bbox": [
+          [
+            -1.975000023841858,
+            0.0,
+            -0.30000001192092896
+          ],
+          [
+            1.975000023841858,
+            0.6000000238418579,
+            0.30000001192092896
+          ]
+        ]
+      },
+      "part_3710": {
+        "triangles": 652,
+        "vertices": 663,
+        "bbox": [
+          [
+            -2.0,
+            0.0,
+            -0.5
+          ],
+          [
+            2.0,
+            0.6000000238418579,
+            0.5
+          ]
+        ]
+      },
+      "part_3937": {
+        "triangles": 690,
+        "vertices": 746,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -0.5
+          ],
+          [
+            1.0,
+            1.100000023841858,
+            0.5
+          ]
+        ]
+      },
+      "part_3938": {
+        "triangles": 1162,
+        "vertices": 1182,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -0.5
+          ],
+          [
+            1.0,
+            1.0,
+            0.5
+          ]
+        ]
+      },
+      "part_4070": {
+        "triangles": 548,
+        "vertices": 529,
+        "bbox": [
+          [
+            -0.5,
+            0.0,
+            -0.5
+          ],
+          [
+            0.5,
+            1.4000000953674316,
+            0.5
+          ]
+        ]
+      },
+      "part_4740": {
+        "triangles": 832,
+        "vertices": 736,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -1.0
+          ],
+          [
+            1.0,
+            0.6000000238418579,
+            1.0
+          ]
+        ]
+      },
+      "part_6141": {
+        "triangles": 544,
+        "vertices": 530,
+        "bbox": [
+          [
+            -0.5,
+            0.0,
+            -0.5
+          ],
+          [
+            0.5,
+            0.6000000238418579,
+            0.5
+          ]
+        ]
+      },
+      "part_6558": {
+        "triangles": 2892,
+        "vertices": 3440,
+        "bbox": [
+          [
+            -1.5,
+            0.0019030869007110596,
+            -0.4000265300273895
+          ],
+          [
+            1.5,
+            0.7781969308853149,
+            0.4000265300273895
+          ]
+        ]
+      },
+      "part_11090": {
+        "triangles": 376,
+        "vertices": 433,
+        "bbox": [
+          [
+            -0.3723973333835602,
+            0.0,
+            -0.3125
+          ],
+          [
+            0.3723973333835602,
+            1.701490044593811,
+            0.3125
+          ]
+        ]
+      },
+      "part_11477": {
+        "triangles": 392,
+        "vertices": 422,
+        "bbox": [
+          [
+            -0.5,
+            0.0,
+            -1.0
+          ],
+          [
+            0.5,
+            0.8000030517578125,
+            1.0
+          ]
+        ]
+      },
+      "part_14417": {
+        "triangles": 684,
+        "vertices": 611,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -0.949999988079071
+          ],
+          [
+            1.0,
+            0.800000011920929,
+            0.949999988079071
+          ]
+        ]
+      },
+      "part_14418": {
+        "triangles": 1454,
+        "vertices": 1412,
+        "bbox": [
+          [
+            -1.375,
+            0.0,
+            -0.5
+          ],
+          [
+            1.375,
+            0.7874999642372131,
+            0.5
+          ]
+        ]
+      },
+      "part_14704": {
+        "triangles": 1553,
+        "vertices": 1516,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -0.875
+          ],
+          [
+            1.0,
+            0.7874999642372131,
+            0.875
+          ]
+        ]
+      },
+      "part_32009": {
+        "triangles": 8648,
+        "vertices": 9775,
+        "bbox": [
+          [
+            -2.450000047683716,
+            0.0,
+            -4.449999809265137
+          ],
+          [
+            2.4499998092651367,
+            1.0,
+            4.449999809265137
+          ]
+        ]
+      },
+      "part_32062": {
+        "triangles": 784,
+        "vertices": 896,
+        "bbox": [
+          [
+            -0.9750000238418579,
+            0.0,
+            -0.30000001192092896
+          ],
+          [
+            0.9750000238418579,
+            0.6000000238418579,
+            0.30000001192092896
+          ]
+        ]
+      },
+      "part_32316": {
+        "triangles": 4140,
+        "vertices": 4580,
+        "bbox": [
+          [
+            -0.44999998807907104,
+            0.0,
+            -2.450000047683716
+          ],
+          [
+            0.44999998807907104,
+            1.0,
+            2.450000047683716
+          ]
+        ]
+      },
+      "part_32523": {
+        "triangles": 2364,
+        "vertices": 2580,
+        "bbox": [
+          [
+            -0.44999998807907104,
+            0.0,
+            -1.4500000476837158
+          ],
+          [
+            0.44999998807907104,
+            1.0,
+            1.4500000476837158
+          ]
+        ]
+      },
+      "part_43093": {
+        "triangles": 1324,
+        "vertices": 1459,
+        "bbox": [
+          [
+            -0.987500011920929,
+            0.0,
+            -0.4000000059604645
+          ],
+          [
+            0.987500011920929,
+            0.800000011920929,
+            0.4000000059604645
+          ]
+        ]
+      },
+      "part_44728": {
+        "triangles": 1134,
+        "vertices": 1169,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -0.699999988079071
+          ],
+          [
+            1.0,
+            2.200000047683716,
+            0.699999988079071
+          ]
+        ]
+      },
+      "part_54200": {
+        "triangles": 203,
+        "vertices": 210,
+        "bbox": [
+          [
+            -0.5,
+            0.0,
+            -0.5
+          ],
+          [
+            0.5,
+            0.7799999713897705,
+            0.5
+          ]
+        ]
+      },
+      "part_60470b": {
+        "triangles": 680,
+        "vertices": 767,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -0.8507449626922607
+          ],
+          [
+            1.0,
+            0.7447946667671204,
+            0.8507450819015503
+          ]
+        ]
+      },
+      "part_60478": {
+        "triangles": 704,
+        "vertices": 719,
+        "bbox": [
+          [
+            -1.399999976158142,
+            0.0,
+            -0.5
+          ],
+          [
+            1.399999976158142,
+            0.6000000238418579,
+            0.5
+          ]
+        ]
+      },
+      "part_62360": {
+        "triangles": 1642,
+        "vertices": 1657,
+        "bbox": [
+          [
+            -3.0,
+            0.0,
+            -1.4951000213623047
+          ],
+          [
+            3.0,
+            1.2000000476837158,
+            1.4951000213623047
+          ]
+        ]
+      },
+      "part_98138": {
+        "triangles": 448,
+        "vertices": 418,
+        "bbox": [
+          [
+            -0.5,
+            0.0,
+            -0.5
+          ],
+          [
+            0.5,
+            0.4000000059604645,
+            0.5
+          ]
+        ]
+      },
+      "part_99207": {
+        "triangles": 1126,
+        "vertices": 1171,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -0.699999988079071
+          ],
+          [
+            1.0,
+            2.0,
+            0.699999988079071
+          ]
+        ]
+      }
+    },
+    "normalsValidated": true,
+    "unitScaleValidated": true,
+    "originValidated": true,
+    "originToleranceStud": 0.025,
+    "bevelSegments": 1
+  },
+  "licenseFile": "/assets/LDraw-LICENSE.txt"
+}

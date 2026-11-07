@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "glb": "/assets/demo-parts.glb",
+  "unit": "1 stud",
+  "axis": "Y-up",
+  "preliminary": false,
+  "parts": [
+    {
+      "id": "43722",
+      "ldrawId": "43722",
+      "templateId": "ld_43722",
+      "name": "~Moved to 43722a",
+      "category": "wings",
+      "description": "~Moved to 43722a",
+      "width": 2.0,
+      "depth": 3.0,
+      "height": 0.4,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -1.5
+        ],
+        [
+          1.0,
+          0.6000000000000001,
+          1.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -1.5
+        ],
+        "max": [
+          1.0,
+          0.6000000000000001,
+          1.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -1.5
+        ],
+        [
+          1.0,
+          0.4,
+          1.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -1.5,
+          -0.4
+        ],
+        [
+          1.0,
+          1.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_43722",
+      "glb": "/assets/demo-parts.glb",
+      "shape": "wing",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 719,
+      "source": "https://library.ldraw.org/library/official/parts/43722.dat",
+      "sourceFiles": [
+        "p/1-16tndis.dat",
+        "p/1-4cyli.dat",
+        "p/1-4cylo.dat",
+        "p/1-4edge.dat",
+        "p/1-4ring3.dat",
+        "p/2-4ring3.dat",
+        "p/3-16cyli.dat",
+        "p/3-16cylo.dat",
+        "p/3-16edge.dat",
+        "p/3-4cyli.dat",
+        "p/3-4cylo.dat",
+        "p/3-4edge.dat",
+        "p/3-8cyli.dat",
+        "p/3-8cylo.dat",
+        "p/3-8edge.dat",
+        "p/3-8ring3.dat",
+        "p/4-4cyli.dat",
+        "p/4-4cylo.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/7-16ring3.dat",
+        "p/box2-5.dat",
+        "p/box2-7.dat",
+        "p/rect.dat",
+        "p/rect1.dat",
+        "p/rect2p.dat",
+        "p/rect3.dat",
+        "p/stud.dat",
+        "p/stug-1x3.dat",
+        "parts/43722.dat",
+        "parts/43722a.dat",
+        "parts/s/43722as01.dat"
+      ],
+      "authors": [
+        "Alex Taylor [anathema]",
+        "Chris Dee [cwdee]",
+        "Donald Sutter [technog]",
+        "J.C. Tchang [tchang]",
+        "James Jessiman",
+        "Magnus Forsberg [MagFors]",
+        "Mark Kennedy [mkennedy]",
+        "Massimo Maso [Sirio]",
+        "Max Martin Richter [MMR1988]",
+        "Niels Karsdorp [nielsk]",
+        "Philippe Hurbain [Philo]",
+        "Steffen [Steffen]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 420,
+      "defaultMaterial": {
+        "color": "#4b4e4c",
+        "roughness": 0.28999999,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.46000004,
+        "name": "ABS · Dark mechanical grey"
+      }
+    },
+    {
+      "id": "43723",
+      "ldrawId": "43723",
+      "templateId": "ld_43723",
+      "name": "~Moved to 43723a",
+      "category": "wings",
+      "description": "~Moved to 43723a",
+      "width": 2.0,
+      "depth": 3.0,
+      "height": 0.4,
+      "meshHeight": 0.6,
+      "bbox": [
+        [
+          -1.0,
+          0.0,
+          -1.5
+        ],
+        [
+          1.0,
+          0.6000000000000001,
+          1.5
+        ]
+      ],
+      "bounds": {
+        "min": [
+          -1.0,
+          0.0,
+          -1.5
+        ],
+        "max": [
+          1.0,
+          0.6000000000000001,
+          1.5
+        ]
+      },
+      "bodyBounds": [
+        [
+          -1.0,
+          0.0,
+          -1.5
+        ],
+        [
+          1.0,
+          0.4,
+          1.5
+        ]
+      ],
+      "sourceBoundsBlender": [
+        [
+          -1.0,
+          -1.5,
+          -0.4
+        ],
+        [
+          1.0,
+          1.5,
+          0.2
+        ]
+      ],
+      "sourceCenterBlender": [
+        0.0,
+        0.0,
+        -0.4
+      ],
+      "sourceOriginInGame": [
+        -0.0,
+        0.4,
+        0.0
+      ],
+      "dimensionsSource": "Real LDraw surface bounds; known stacking pieces use original top datum Z=0 for height, excluding studs",
+      "coordinateSystem": "Three.js Y-up; X/Z bounding-box centre; bottom Y=0; 1 unit=1 stud",
+      "nodeName": "part_43723",
+      "glb": "/assets/demo-parts.glb",
+      "shape": "wing",
+      "connections": {
+        "status": "unverified",
+        "points": [],
+        "note": "No automatic studs inferred from bounding boxes; use an audited connector table"
+      },
+      "triangles": 719,
+      "source": "https://library.ldraw.org/library/official/parts/43723.dat",
+      "sourceFiles": [
+        "p/1-16tndis.dat",
+        "p/1-4cyli.dat",
+        "p/1-4cylo.dat",
+        "p/1-4edge.dat",
+        "p/1-4ring3.dat",
+        "p/2-4ring3.dat",
+        "p/3-16cyli.dat",
+        "p/3-16cylo.dat",
+        "p/3-16edge.dat",
+        "p/3-4cyli.dat",
+        "p/3-4cylo.dat",
+        "p/3-4edge.dat",
+        "p/3-8cyli.dat",
+        "p/3-8cylo.dat",
+        "p/3-8edge.dat",
+        "p/3-8ring3.dat",
+        "p/4-4cyli.dat",
+        "p/4-4cylo.dat",
+        "p/4-4disc.dat",
+        "p/4-4edge.dat",
+        "p/7-16ring3.dat",
+        "p/box2-5.dat",
+        "p/box2-7.dat",
+        "p/rect.dat",
+        "p/rect1.dat",
+        "p/rect2p.dat",
+        "p/rect3.dat",
+        "p/stud.dat",
+        "p/stug-1x3.dat",
+        "parts/43723.dat",
+        "parts/43723a.dat",
+        "parts/s/43722as01.dat"
+      ],
+      "authors": [
+        "Alex Taylor [anathema]",
+        "Chris Dee [cwdee]",
+        "Donald Sutter [technog]",
+        "J.C. Tchang [tchang]",
+        "James Jessiman",
+        "Magnus Forsberg [MagFors]",
+        "Mark Kennedy [mkennedy]",
+        "Massimo Maso [Sirio]",
+        "Max Martin Richter [MMR1988]",
+        "Niels Karsdorp [nielsk]",
+        "Philippe Hurbain [Philo]",
+        "Steffen [Steffen]",
+        "Willy Tschager [Holly-Wood]"
+      ],
+      "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+      "licenses": [
+        "Licensed under CC BY 4.0 : see CAreadme.txt"
+      ],
+      "verticesBeforeGltfSplit": 420,
+      "defaultMaterial": {
+        "color": "#4b4e4c",
+        "roughness": 0.28999999,
+        "metalness": 0.0,
+        "transmission": 0.0,
+        "ior": 1.46000004,
+        "name": "ABS · Dark mechanical grey"
+      }
+    }
+  ],
+  "statistics": {
+    "bytes": 46448,
+    "rootNodes": 2,
+    "triangles": 1438,
+    "nodes": {
+      "part_43722": {
+        "triangles": 719,
+        "vertices": 740,
+        "bbox": [
+          [
+            -0.9977791905403137,
+            0.0,
+            -1.5
+          ],
+          [
+            1.0,
+            0.6000000238418579,
+            1.5
+          ]
+        ]
+      },
+      "part_43723": {
+        "triangles": 719,
+        "vertices": 741,
+        "bbox": [
+          [
+            -1.0,
+            0.0,
+            -1.5
+          ],
+          [
+            0.9977791905403137,
+            0.6000000238418579,
+            1.5
+          ]
+        ]
+      }
+    },
+    "normalsValidated": true,
+    "unitScaleValidated": true,
+    "originValidated": true,
+    "originToleranceStud": 0.025
+  }
+}

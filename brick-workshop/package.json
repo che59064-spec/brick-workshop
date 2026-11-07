@@ -1,0 +1,14 @@
+{
+  "name": "brick-workshop",
+  "version": "0.6.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": { "three": "0.187.0" },
+  "devDependencies": { "vite": "8.3.5" }
+}
