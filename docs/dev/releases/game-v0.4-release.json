@@ -1,0 +1,32 @@
+{
+  "version": "0.4.0",
+  "date": "2026-11-06",
+  "status": "succeeded",
+  "validation": {
+    "automated_tests": {
+      "passed": 65,
+      "failed": 0
+    },
+    "production_build": "passed",
+    "browser_cases": [
+      "XYZ four-turn rotation round trips",
+      "inverted studs floor rejection",
+      "raised move and copy",
+      "free placement coordinates",
+      "selected nesting enable and disable validation",
+      "real plate stack and connected assembly",
+      "4070 hollow side stud centre mating",
+      "demo edit shortcut isolation",
+      "reload persistence",
+      "out-of-view height plane rejection",
+      "camera wheel preview and click coordinates agree"
+    ],
+    "proof": "../research/game-v0.4-building.jpg",
+    "viewport": "1280x720"
+  },
+  "limitations": [
+    "mechanical pins and clips remain manual",
+    "pose interference remains conservative; no swept collision",
+    "old drafts retain historical load tolerances"
+  ]
+}

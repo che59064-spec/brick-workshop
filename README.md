@@ -87,11 +87,19 @@ brick-workshop/       浏览器游戏、GLB 资产与自动测试
 blender/output/       可编辑零件库、变形模型与模型渲染
 blender/ldraw/        构建与测试所需的精简 LDraw 文件及许可
 blender/scripts/      模型构建、导出和验证脚本
-docs/images/          游戏实机截图
+docs/images/          README 配图与游戏实机截图
+docs/dev/             开发档案：进度、设计、研究、发布记录与早期截图
 GAME_DESIGN.md        游戏设计与阶段规划
+PRODUCT.md            产品范围与交付定义
 ```
 
 打开 `blender/output/parts_library.blend` 可查看零件库；打开 `blender/output/transformer_study.blend` 可查看飞机与人形研究模型。具体说明见 [Blender 说明](blender/README.md)。
+
+## 开发档案
+
+[docs/dev/README.md](docs/dev/README.md) 公开了从 v0.1 到 v0.6 的开发过程：分阶段进度、视觉系统规范、参考研究、逐版本验证记录与早期实机截图。自动测试从 33 项增长到 113 项，各版本解决的问题与当时的已知限制均有记录。
+
+包含本机路径、内部预览站点标识与第三方视频帧的资料未随仓库公开，具体清单见开发档案索引。
 
 ## 当前限制
 

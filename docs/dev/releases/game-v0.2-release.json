@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "date": "2026-11-05",
+  "status": "succeeded",
+  "tests_passed": 33,
+  "production_build": "passed",
+  "git_diff_check": "passed",
+  "browser_checked": [
+    "Blender demo A/B",
+    "joint angle edit",
+    "named pose persistence",
+    "77-part free build and reload",
+    "module assignment",
+    "keyboard forward",
+    "touch hold forward",
+    "desktop and 390x844 layout"
+  ],
+  "screenshot": "../../images/drive-v0.3.jpg",
+  "known_limits": [
+    "manual mechanical mating",
+    "conservative bounding boxes",
+    "simplified whole-assembly dynamics",
+    "reference-derived transformer study rather than exact replica"
+  ]
+}

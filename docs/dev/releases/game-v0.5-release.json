@@ -1,0 +1,30 @@
+{
+  "version": "0.5.0",
+  "date": "2026-11-06",
+  "status": "succeeded",
+  "validation": {
+    "automated_tests": {
+      "passed": 94,
+      "failed": 0
+    },
+    "production_build": "passed",
+    "browser_cases": [
+      "3937 normal bottom socket mating without a stud-height gap",
+      "2429 off-centre hinge stud mating",
+      "11477 stepped bottom socket mating",
+      "unsupported placement rejected with snapping on and off",
+      "moving or deleting a base cannot strand upper bricks",
+      "height field shares support validation",
+      "old nesting flag cannot bypass strict collision",
+      "old floating draft can be grounded, undone, redone and reopened",
+      "visible browser assembled 3005 and 11477 with one fixed connection"
+    ],
+    "proof": "../research/game-v0.5-support.jpg",
+    "viewport": "1280x720"
+  },
+  "limitations": [
+    "mechanical pin, clip, hinge and ball mating is not automatically modeled",
+    "support is a construction rule rather than full rigid-body physics",
+    "legacy imported drafts retain historical load tolerance and show unsupported pieces for repair"
+  ]
+}

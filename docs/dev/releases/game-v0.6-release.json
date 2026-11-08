@@ -1,0 +1,22 @@
+{
+  "version": "0.6.0",
+  "date": "2026-11-07",
+  "status": "succeeded",
+  "validation": {
+    "tests": 113,
+    "build": "passed",
+    "browser": [
+      "free-grid stud mating",
+      "3673 into 3700 hole",
+      "occupied hole rejected",
+      "component movement",
+      "glass toggle",
+      "390px no horizontal overflow"
+    ],
+    "screenshot": "../../images/workbench-v0.6.jpg"
+  },
+  "limitations": [
+    "hinge and clip mating remains incomplete",
+    "pin axial roll at arbitrary angles is limited by collision approximation"
+  ]
+}

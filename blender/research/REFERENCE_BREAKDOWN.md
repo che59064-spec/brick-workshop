@@ -14,20 +14,18 @@
 
 左右说明：`画面左/右` 只指当前截图。候选模块名中的 `L/R` 指成对模块，尚未通过完整连续帧确认其与机器人解剖学左右的对应关系。物体朝向和相机朝向必须分别记录。
 
-| 帧 | 文件 | 本次已观察 |
+| 帧 | 帧图 | 本次已观察 |
 | --- | --- | --- |
-| 08 秒 | [video-frame-08.png](../../research/video-frame-08.png) | 中央框架与反装凹槽件的组装状态 |
-| 16 秒 | [video-frame-16.png](../../research/video-frame-16.png) | 飞机后上方视角，侧模块尚有裸露浅灰结构 |
-| 18 秒 | [video-frame-18.png](../../research/video-frame-18.png) | 相近机位，侧模块增加深灰盖件和浅灰筒状末端 |
-| 20 秒 | [video-frame-20.png](../../research/video-frame-20.png) | 完整飞机前上方视角，适合飞机轮廓与材质核对 |
-| 22 秒 | [video-frame-22.png](../../research/video-frame-22.png) | 双侧模块向外伸展开的中间姿态 |
-| 24 秒 | [video-frame-24.png](../../research/video-frame-24.png) | 直立中间姿态，机鼻总成仍位于躯干上方，顶部被画面裁切 |
-| 26 秒 | [video-frame-26.png](../../research/video-frame-26.png) | 完成人形，适合站姿轮廓与关节位置核对 |
-| 旧实现 | [editor-preview.jpg](../../research/editor-preview.jpg) | 旧网页 13 件简化飞机与编辑工作台，仅作为差距证据 |
+| 08 秒 | [文字观察](../../docs/dev/research/REFERENCE.md) | 中央框架与反装凹槽件的组装状态 |
+| 16 秒 | [文字观察](../../docs/dev/research/REFERENCE.md) | 飞机后上方视角，侧模块尚有裸露浅灰结构 |
+| 18 秒 | [文字观察](../../docs/dev/research/REFERENCE.md) | 相近机位，侧模块增加深灰盖件和浅灰筒状末端 |
+| 20 秒 | [文字观察](../../docs/dev/research/REFERENCE.md) | 完整飞机前上方视角，适合飞机轮廓与材质核对 |
+| 22 秒 | [文字观察](../../docs/dev/research/REFERENCE.md) | 双侧模块向外伸展开的中间姿态 |
+| 24 秒 | [文字观察](../../docs/dev/research/REFERENCE.md) | 直立中间姿态，机鼻总成仍位于躯干上方，顶部被画面裁切 |
+| 26 秒 | [文字观察](../../docs/dev/research/REFERENCE.md) | 完成人形，适合站姿轮廓与关节位置核对 |
+| 旧实现 | [editor-preview.jpg](../../docs/dev/screenshots/editor-preview.jpg) | 旧网页 13 件简化飞机与编辑工作台，仅作为差距证据 |
 
-![20 秒飞机参考](../../research/video-frame-20.png)
-
-![26 秒人形参考](../../research/video-frame-26.png)
+> 第 20 秒飞机形态与第 26 秒人形形态的逐帧画面属于第三方视频内容，未随仓库公开；画面观察见 [参考核对记录](../../docs/dev/research/REFERENCE.md)。
 
 ## 2. 分帧事实
 
@@ -148,7 +146,7 @@ R00 作品根节点（整体位置/朝向）
 
 ## 5. 与旧网页截图的具体差距
 
-![旧网页简化示例](../../research/editor-preview.jpg)
+![旧网页简化示例](../../docs/dev/screenshots/editor-preview.jpg)
 
 | 维度 | 视频截图 | 旧网页截图 | Blender 新阶段验收 |
 | --- | --- | --- | --- |

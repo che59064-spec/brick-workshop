@@ -1,6 +1,6 @@
 # 积木工坊界面规范
 
-本轮界面采用用户指定的 Apple / macOS 工具应用语言。产品任务与范围见 [PRODUCT.md](PRODUCT.md)，上级项目约定见 [../DESIGN.md](../DESIGN.md)。工作台属于 Operate 模式：零件、作品与当前编辑任务构成主要层级。
+本轮界面采用用户指定的 Apple / macOS 工具应用语言。产品任务与范围见 [PRODUCT.md](PRODUCT.md)，上级项目约定见 [项目视觉系统](../docs/dev/DESIGN.md)。工作台属于 Operate 模式：零件、作品与当前编辑任务构成主要层级。
 
 ## 视觉方向
 

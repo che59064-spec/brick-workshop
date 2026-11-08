@@ -1,0 +1,32 @@
+{
+  "version": "0.3.0",
+  "date": "2026-11-05",
+  "status": "succeeded",
+  "tests_passed": 41,
+  "production_build": "passed",
+  "browser_checks": [
+    "copy preserves module type, power and nesting permission",
+    "moving a nested part retains its permission",
+    "keyboard movement 0.5 plus shift fine movement 0.1",
+    "joint picking retains name and angles",
+    "full document rejection retains editable joint draft",
+    "deleting out-of-range pose unblocks limits change",
+    "joint edits survive reload",
+    "unreadable draft survives reload and is backed up before saving a new work",
+    "arrow-key driving",
+    "desktop and touch driving collect an energy ring",
+    "1280x800 desktop and 390x844 mobile layouts"
+  ],
+  "screenshots": [
+    "../../images/drive-v0.3.jpg"
+  ],
+  "warnings": [
+    "ANGLE emits FXAA shader compiler warnings; rendering checked without runtime errors"
+  ],
+  "known_limits": [
+    "manual mechanical mating",
+    "conservative bounding boxes",
+    "simplified whole-assembly dynamics",
+    "reference-derived transformer study rather than exact replica"
+  ]
+}
