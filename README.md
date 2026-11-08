@@ -2,7 +2,7 @@
 
 一个开放式 3D 机械积木沙盒：从零件开始自由搭建，设置关节与姿态，再给作品装上动力模块进行试车。零件模型在 Blender 中制作，游戏使用 Three.js 在浏览器运行。
 
-![积木工坊工作台：当前 v0.6 界面与销孔拼接](docs/images/workbench-v0.6.jpg)
+![积木工坊 v0.6 工作台：左侧零件库、中央 3D 搭建区、右侧销孔接合属性面板](docs/images/workbench-v0.6-detail.jpg)
 
 <p align="center"><b>自由搭建</b> · <b>机械关节</b> · <b>动力试车</b></p>
 
@@ -17,24 +17,37 @@
 
 ## 画面
 
+### 搭建与接合
+
+| 自由搭建 · 选中零件与位置微调 | 接口校验 · 曲面斜砖与属性面板 |
+| --- | --- |
+| ![v0.4 自由搭建](docs/images/building-v0.4.jpg) | ![v0.5 支撑与接口校验](docs/images/support-v0.5.jpg) |
+
+工作台默认空白：从左侧零件库取件，在中央 3D 区域放置、旋转与微调；右侧面板显示选中件的接口、位置与可挂载模块。放置时按标准凸点、底孔与销孔建立连接，并做碰撞与支撑检查。
+
+### 变形与试车
+
+| 77 件机甲 · A/B 姿态变形 | 动力试车 · 能量环与仪表 |
+| --- | --- |
+| ![早期机甲变形展示](docs/images/transformer-early.jpg) | ![v0.3 动力试车](docs/images/drive-v0.3.jpg) |
+
+左图为 77 件积木组成的机甲研究示例，可用滑块预览飞机形与人形之间的姿态；右图为挂载电池与推进模块后的试车画面，右上角显示小地图、能量环、电量与速度。两张均为早期版本界面。
+
+### 界面与窄屏
+
+| 毛玻璃面板 · v0.6 | 390 × 844 窄屏 |
+| --- | --- |
+| ![毛玻璃界面](docs/images/workbench-v0.6.jpg) | <img src="docs/images/mobile-v0.3.jpg" width="200" alt="窄屏布局" /> |
+
+v0.6 界面可在毛玻璃与实色面板之间切换；窄屏下工具栏与仪表改为紧凑布局，无横向溢出。
+
+### Blender 机构研究
+
 | 飞机形态 · Blender 研究初稿 | 人形形态 · Blender 研究初稿 |
 | --- | --- |
 | ![积木飞机形态](blender/output/aircraft.png) | ![积木人形形态](blender/output/humanoid.png) |
 
 上图为同一变形模型的 Blender 机构研究初稿，不代表已完成全部实际接合或自动变形验证。
-
-<details>
-<summary>更多历史开发画面</summary>
-
-![早期机甲变形展示](docs/images/transformer-early.jpg)
-
-早期变形展示画面，界面并非当前版本。
-
-![v0.3 动力试车](docs/images/drive-v0.3.jpg)
-
-v0.3 动力试车画面，界面并非当前版本。
-
-</details>
 
 ## 本地运行
 
